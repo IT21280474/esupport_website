@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Secrets (each app also ignores its own .env)
+.env
+*.env.local
