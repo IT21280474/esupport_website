@@ -1,6 +1,9 @@
 import type { NextConfig } from "next";
 
-const API_URL = (process.env.LARAVEL_API_URL || "http://127.0.0.1:8000").replace(/\/$/, "");
+const API_URL = (
+  process.env.LARAVEL_API_URL ||
+  (process.env.NODE_ENV === "production" ? "https://madushan.alwaysdata.net" : "http://127.0.0.1:8000")
+).replace(/\/$/, "");
 
 const nextConfig: NextConfig = {
   images: {

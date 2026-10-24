@@ -3,7 +3,10 @@ import "server-only";
 import { headers } from "next/headers";
 
 /* Laravel backend (esupport_api). All data lives there; this app is the website + admin UI. */
-export const API_URL = (process.env.LARAVEL_API_URL || "http://127.0.0.1:8000").replace(/\/$/, "");
+export const API_URL = (
+    process.env.LARAVEL_API_URL ||
+    (process.env.NODE_ENV === "production" ? "https://madushan.alwaysdata.net" : "http://127.0.0.1:8000")
+).replace(/\/$/, "");
 
 export class ApiError extends Error {
     constructor(
