@@ -1,0 +1,1135 @@
+{
+    "sections": {
+        "hero": {
+            "line1": "Digital",
+            "line2": "Growth",
+            "tiles": [
+                {
+                    "tag": "Brand",
+                    "image": "/portfolio/posts/esupport/02.webp"
+                },
+                {
+                    "tag": "Social",
+                    "image": "/portfolio/posts/fairplays-online/01.webp"
+                },
+                {
+                    "tag": "Campaign",
+                    "image": "/portfolio/posts/tmr-bikes/01.webp"
+                },
+                {
+                    "tag": "Strategy",
+                    "image": "/portfolio/posts/apex-industries/03.webp"
+                },
+                {
+                    "tag": "Creative",
+                    "image": "/portfolio/posts/sansu-international-campus/02.webp"
+                },
+                {
+                    "tag": "Content",
+                    "image": "/portfolio/posts/serendib-news/02.webp"
+                },
+                {
+                    "tag": "Analytics",
+                    "image": "/portfolio/posts/rm-traders/02.webp"
+                },
+                {
+                    "tag": "Growth",
+                    "image": "/portfolio/posts/lanka-holidays/02.webp"
+                },
+                {
+                    "tag": "Digital",
+                    "image": "/portfolio/posts/ngm-motors/02.webp"
+                },
+                {
+                    "tag": "Identity",
+                    "image": "/portfolio/posts/upaliee-transworks/01.webp"
+                }
+            ],
+            "slogan": "Strategy. Creative. Growth.",
+            "eyebrow": "Digital Marketing Agency",
+            "tagline": "eSupport — digital marketing agency, built to grow the brands of tomorrow.",
+            "metaRight": "Colombo, LK · 2026",
+            "backgroundImage": "/hero-background.webp"
+        },
+        "navbar": {
+            "showAbout": true,
+            "aboutLabel": "About",
+            "showContact": true,
+            "showGallery": true,
+            "contactLabel": "Contact",
+            "galleryLabel": "Gallery",
+            "productsHref": "/products",
+            "showProducts": false,
+            "showServices": true,
+            "productsLabel": "Products",
+            "servicesLabel": "Services",
+            "showPortfolio": true,
+            "portfolioLabel": "Portfolio"
+        },
+        "portfolio": {
+            "sites": [
+                {
+                    "url": "http://ceyloraholidays.com/",
+                    "name": "Ceylora Holidays",
+                    "image": "/portfolio/ceyloraholidays.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://ceylonshentours.com/",
+                    "name": "Ceylon Shen Tours",
+                    "image": "/portfolio/ceylonshentours.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "http://lankaattravel.com/",
+                    "name": "Lanka At Travel",
+                    "image": "/portfolio/lankaattravel.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://buddhanjalitravel.com/",
+                    "name": "Buddhanjali Travel",
+                    "image": "/portfolio/buddhanjalitravel.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://islandjourneys.lk/",
+                    "name": "Island Journeys",
+                    "image": "/portfolio/islandjourneys.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://triptastictourssl.com/",
+                    "name": "Triptastic Tours",
+                    "image": "/portfolio/triptastictourssl.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://lankorajourneys.com/",
+                    "name": "Lankora Journeys",
+                    "image": "/portfolio/lankorajourneys.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://justintours.com/",
+                    "name": "Justin Tours",
+                    "image": "/portfolio/justintours.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://ceyluxtravel.com/",
+                    "name": "Ceylux Travel",
+                    "image": "/portfolio/ceyluxtravel.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://tropicaladventuresl.com/",
+                    "name": "Tropical Adventure SL",
+                    "image": "/portfolio/tropicaladventuresl.webp",
+                    "categories": [
+                        "Tourism"
+                    ]
+                },
+                {
+                    "url": "https://srilankaprivatedriver.com/",
+                    "name": "Sri Lanka Private Driver",
+                    "image": "/portfolio/srilankaprivatedriver.webp",
+                    "categories": [
+                        "Travel"
+                    ]
+                },
+                {
+                    "url": "https://colomboflights.com/",
+                    "name": "Colombo Flights",
+                    "image": "/portfolio/colomboflights.webp",
+                    "categories": [
+                        "Travel"
+                    ]
+                },
+                {
+                    "url": "https://taxikingtk.com/",
+                    "name": "Taxi King",
+                    "image": "/portfolio/taxikingtk.webp",
+                    "categories": [
+                        "Travel"
+                    ]
+                },
+                {
+                    "url": "https://tuktukbyt2.com/",
+                    "name": "TukTuk by T2",
+                    "image": "/portfolio/tuktukbyt2.webp",
+                    "categories": [
+                        "Travel"
+                    ]
+                },
+                {
+                    "url": "https://theceamoragalla.com/",
+                    "name": "The Cea Moragalla",
+                    "image": "/portfolio/theceamoragalla.webp",
+                    "categories": [
+                        "Hotels"
+                    ]
+                },
+                {
+                    "url": "https://sulangaluxury.com/",
+                    "name": "Sulanga Luxury",
+                    "image": "/portfolio/sulangaluxury.webp",
+                    "categories": [
+                        "Hotels"
+                    ]
+                },
+                {
+                    "url": "http://crownandcrownkandy.com/",
+                    "name": "Crown & Crown Kandy",
+                    "image": "/portfolio/crownandcrownkandy.webp",
+                    "categories": [
+                        "Hotels"
+                    ]
+                },
+                {
+                    "url": "https://koslanka.com/",
+                    "name": "Kos Lanka",
+                    "image": "/portfolio/koslanka.webp",
+                    "categories": [
+                        "Agriculture"
+                    ]
+                },
+                {
+                    "url": "https://superfeedlk.com/",
+                    "name": "Super Feed",
+                    "image": "",
+                    "categories": [
+                        "Agriculture"
+                    ]
+                },
+                {
+                    "url": "https://kandyhillfarm.lk/",
+                    "name": "Kandy Hill Farm",
+                    "image": "/portfolio/kandyhillfarm.webp",
+                    "categories": [
+                        "Agriculture"
+                    ]
+                },
+                {
+                    "url": "http://www.maximuseducation.lk/",
+                    "name": "Maximus Education",
+                    "image": "/portfolio/maximuseducation.webp",
+                    "categories": [
+                        "Education"
+                    ]
+                },
+                {
+                    "url": "https://edugatesglobal.lk/",
+                    "name": "EduGates Global",
+                    "image": "/portfolio/edugatesglobal.webp",
+                    "categories": [
+                        "Education"
+                    ]
+                },
+                {
+                    "url": "https://iconiceducation.lk/",
+                    "name": "Iconic Education",
+                    "image": "/portfolio/iconiceducation.webp",
+                    "categories": [
+                        "Education"
+                    ]
+                },
+                {
+                    "url": "https://techdrive.lk/",
+                    "name": "TechDrive",
+                    "image": "/portfolio/techdrive.webp",
+                    "categories": [
+                        "Corporate"
+                    ]
+                },
+                {
+                    "url": "http://blis.lk/",
+                    "name": "BLIS",
+                    "image": "/portfolio/blis.webp",
+                    "categories": [
+                        "Corporate"
+                    ]
+                },
+                {
+                    "url": "https://shanumanpower.lk/",
+                    "name": "Shanu Manpower",
+                    "image": "/portfolio/shanumanpower.webp",
+                    "categories": [
+                        "Corporate"
+                    ]
+                },
+                {
+                    "url": "http://upalieetransworks.com/",
+                    "name": "Upaliee Transworks",
+                    "image": "/portfolio/upalieetransworks.webp",
+                    "categories": [
+                        "Corporate"
+                    ]
+                },
+                {
+                    "url": "https://lankagoldbuyer.lk/",
+                    "name": "Lanka Gold Buyer",
+                    "image": "",
+                    "categories": [
+                        "Corporate",
+                        "Jewellery"
+                    ]
+                },
+                {
+                    "url": "http://rjinterior.lk/",
+                    "name": "RJ Interior",
+                    "image": "/portfolio/rjinterior.webp",
+                    "categories": [
+                        "Corporate"
+                    ]
+                },
+                {
+                    "url": "http://kdjeans.com/",
+                    "name": "KD Jeans",
+                    "image": "/portfolio/kdjeans.webp",
+                    "categories": [
+                        "Corporate"
+                    ]
+                },
+                {
+                    "url": "https://sandaru.lk/",
+                    "name": "Sandaru",
+                    "image": "/portfolio/sandaru.webp",
+                    "categories": [
+                        "Corporate"
+                    ]
+                },
+                {
+                    "url": "https://ruapparel.com/",
+                    "name": "RU Apparel",
+                    "image": "/portfolio/ruapparel.webp",
+                    "categories": [
+                        "Corporate",
+                        "Clothing"
+                    ]
+                },
+                {
+                    "url": "https://montageclothing.lk/",
+                    "name": "Montage Clothing",
+                    "image": "/portfolio/montageclothing.webp",
+                    "categories": [
+                        "Clothing"
+                    ]
+                },
+                {
+                    "url": "https://realcap.lk/",
+                    "name": "RealCap",
+                    "image": "/portfolio/realcap.webp",
+                    "categories": [
+                        "Clothing"
+                    ]
+                },
+                {
+                    "url": "https://gloviaglobal.com/",
+                    "name": "Glovia Global",
+                    "image": "/portfolio/gloviaglobal.webp",
+                    "categories": [
+                        "Clothing"
+                    ]
+                },
+                {
+                    "url": "https://pattern.lk/",
+                    "name": "Pattern",
+                    "image": "/portfolio/pattern.webp",
+                    "categories": [
+                        "Clothing"
+                    ]
+                },
+                {
+                    "url": "https://jaktec.lk/",
+                    "name": "Jaktec",
+                    "image": "/portfolio/jaktec.webp",
+                    "categories": [
+                        "Clothing"
+                    ]
+                },
+                {
+                    "url": "https://drmelki.com/",
+                    "name": "Dr. Melki",
+                    "image": "/portfolio/drmelki.webp",
+                    "categories": [
+                        "Beauty"
+                    ]
+                },
+                {
+                    "url": "https://drrashellanka.com/",
+                    "name": "Dr. Rashel Lanka",
+                    "image": "/portfolio/drrashellanka.webp",
+                    "categories": [
+                        "Beauty"
+                    ]
+                },
+                {
+                    "url": "https://sviss.lk/",
+                    "name": "Sviss",
+                    "image": "/portfolio/sviss.webp",
+                    "categories": [
+                        "Beauty"
+                    ]
+                },
+                {
+                    "url": "https://bullionlankajewellers.lk/",
+                    "name": "Bullion Lanka Jewellers",
+                    "image": "/portfolio/bullionlankajewellers.webp",
+                    "categories": [
+                        "Jewellery"
+                    ]
+                },
+                {
+                    "url": "https://vilvagold.lk/",
+                    "name": "Vilva Gold",
+                    "image": "",
+                    "categories": [
+                        "Jewellery"
+                    ]
+                },
+                {
+                    "url": "https://nishanthahardware.lk/",
+                    "name": "Nishantha Hardware",
+                    "image": "/portfolio/nishanthahardware.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "http://imethsports.com/",
+                    "name": "Imeth Sports",
+                    "image": "/portfolio/imethsports.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "http://limarklanka.com/",
+                    "name": "Limark Lanka",
+                    "image": "/portfolio/limarklanka.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "http://royalfreshness.lk/",
+                    "name": "Royal Freshness",
+                    "image": "",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "https://kiwivault-nz.com/",
+                    "name": "KiwiVault NZ",
+                    "image": "/portfolio/kiwivault-nz.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "https://surathala.com/",
+                    "name": "Surathala",
+                    "image": "/portfolio/surathala.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "https://gadget-brat.com/",
+                    "name": "Gadget Brat",
+                    "image": "/portfolio/gadget-brat.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "https://rnrmobile.com/",
+                    "name": "RNR Mobile",
+                    "image": "/portfolio/rnrmobile.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "https://quantumtek.lk/",
+                    "name": "QuantumTek",
+                    "image": "/portfolio/quantumtek.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "https://meatzone.lk/",
+                    "name": "MeatZone",
+                    "image": "/portfolio/meatzone.webp",
+                    "categories": [
+                        "E-Commerce"
+                    ]
+                },
+                {
+                    "url": "https://australianconcrete.com/",
+                    "name": "Australian Concrete",
+                    "image": "/portfolio/australianconcrete.webp",
+                    "categories": [
+                        "Construction"
+                    ]
+                },
+                {
+                    "url": "https://onarahomes.com/",
+                    "name": "Onara Homes",
+                    "image": "/portfolio/onarahomes.webp",
+                    "categories": [
+                        "Construction"
+                    ]
+                },
+                {
+                    "url": "https://buildwayinternational.com/",
+                    "name": "Buildway International",
+                    "image": "",
+                    "categories": [
+                        "Construction"
+                    ]
+                },
+                {
+                    "url": "https://noahlankaglory.com/",
+                    "name": "Noah Lanka Glory",
+                    "image": "/portfolio/noahlankaglory.webp",
+                    "categories": [
+                        "Construction"
+                    ]
+                },
+                {
+                    "url": "https://gallageconstruction.lk/",
+                    "name": "Gallage Construction",
+                    "image": "/portfolio/gallageconstruction.webp",
+                    "categories": [
+                        "Construction"
+                    ]
+                },
+                {
+                    "url": "https://billingnavigator.com/",
+                    "name": "Billing Navigator",
+                    "image": "/portfolio/billingnavigator.webp",
+                    "categories": [
+                        "Health"
+                    ]
+                },
+                {
+                    "url": "https://helplineacademy.lk/",
+                    "name": "Helpline Academy",
+                    "image": "",
+                    "categories": [
+                        "Health"
+                    ]
+                },
+                {
+                    "url": "http://verdantcare.com.au/",
+                    "name": "Verdant Care",
+                    "image": "/portfolio/verdantcare.webp",
+                    "categories": [
+                        "Health"
+                    ]
+                },
+                {
+                    "url": "https://medri.lk/",
+                    "name": "Medri",
+                    "image": "/portfolio/medri.webp",
+                    "categories": [
+                        "Health"
+                    ]
+                },
+                {
+                    "url": "https://safelifepharma.com/",
+                    "name": "SafeLife Pharma",
+                    "image": "/portfolio/safelifepharma.webp",
+                    "categories": [
+                        "Health"
+                    ]
+                },
+                {
+                    "url": "https://lifeonhelp.com/",
+                    "name": "LifeOn Help",
+                    "image": "",
+                    "categories": [
+                        "Charity"
+                    ]
+                },
+                {
+                    "url": "https://surakshafund.lk/",
+                    "name": "Suraksha Fund",
+                    "image": "",
+                    "categories": [
+                        "Charity"
+                    ]
+                },
+                {
+                    "url": "https://oceanasialogistics.com/",
+                    "name": "Ocean Asia Logistics",
+                    "image": "/portfolio/oceanasialogistics.webp",
+                    "categories": [
+                        "Logistics"
+                    ]
+                },
+                {
+                    "url": "https://crestlog.com/",
+                    "name": "Crestlog",
+                    "image": "/portfolio/crestlog.webp",
+                    "categories": [
+                        "Logistics"
+                    ]
+                },
+                {
+                    "url": "http://sevenkeyshipping.com/",
+                    "name": "Seven Key Shipping",
+                    "image": "/portfolio/sevenkeyshipping.webp",
+                    "categories": [
+                        "Logistics"
+                    ]
+                },
+                {
+                    "url": "https://sagojapan.com/",
+                    "name": "Sago Japan",
+                    "image": "/portfolio/sagojapan.webp",
+                    "categories": [
+                        "Spare Parts"
+                    ]
+                },
+                {
+                    "url": "https://globaltechsecure.lk/",
+                    "name": "GlobalTech Secure",
+                    "image": "/portfolio/globaltechsecure.webp",
+                    "categories": [
+                        "Spare Parts"
+                    ]
+                }
+            ],
+            "dmLabel": "Full Case Studies",
+            "dmTitle": "Explore the Digital Marketing Portfolio",
+            "eyebrow": "Live Client Websites",
+            "categories": [
+                "Tourism",
+                "Travel",
+                "Hotels",
+                "Agriculture",
+                "Education",
+                "Corporate",
+                "Clothing",
+                "Beauty",
+                "Jewellery",
+                "E-Commerce",
+                "Construction",
+                "Health",
+                "Charity",
+                "Logistics",
+                "Spare Parts"
+            ],
+            "description": "Websites we've designed and built across every industry, live right now. Tap any preview to visit the real thing.",
+            "postClients": [
+                {
+                    "logo": "/portfolio/logos/sansu-international-campus.webp",
+                    "name": "SANSU International Campus",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/04.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/05.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/06.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/07.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/08.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/09.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/10.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/11.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/sansu-international-campus/12.webp"
+                        }
+                    ],
+                    "summary": "SANSU International Campus is a higher-education institute in Kandy, Sri Lanka, operating since 2015. It offers diploma programmes and certificate courses, along with pathways to study overseas and corporate training.",
+                    "industry": "Higher education",
+                    "services": [
+                        "Social media post design for the campus's certificate programmes",
+                        "A creative concept for every course, told as a before-and-after story",
+                        "Bilingual (Sinhala and English) post layouts with the campus branding"
+                    ],
+                    "objectives": [
+                        "Promote the certificate programmes in psychology, counselling and education",
+                        "Encourage enquiries and enrolments through a clear \"Enrol now\" and website call to action",
+                        "Keep a consistent, recognisable look across a 12-post series"
+                    ],
+                    "websiteUrl": "",
+                    "logoBackground": "Light"
+                },
+                {
+                    "logo": "/portfolio/logos/fairplays-online.webp",
+                    "name": "Fairplays Online",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/fairplays-online/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/04.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/05.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/06.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/07.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/08.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/fairplays-online/09.webp"
+                        }
+                    ],
+                    "summary": "Fairplays is an online sports-betting and casino platform. Its own site offers a sportsbook, live casino and other games through a wallet-based account, with customer support, and is available in several languages including English and Hindi.",
+                    "industry": "Online sports betting and casino",
+                    "services": [
+                        "Social media post design",
+                        "Match-day and fixture announcement creatives for major cricket games",
+                        "Themed sports artwork in English and Hindi (cricket, table tennis, badminton, virtual league)",
+                        "Instagram content for the brand's social presence",
+                        "Search engine optimisation (SEO) for the website"
+                    ],
+                    "objectives": [
+                        "Keep the brand visible around major cricket fixtures",
+                        "Reach both English- and Hindi-speaking audiences",
+                        "Carry the brand's service and support messages in every post"
+                    ],
+                    "websiteUrl": "",
+                    "logoBackground": "Light"
+                },
+                {
+                    "logo": "/portfolio/logos/lanka-holidays.webp",
+                    "name": "Lanka Holidays",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/04.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/05.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/06.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/07.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/lanka-holidays/08.webp"
+                        }
+                    ],
+                    "summary": "Lanka Holidays is a Colombo-based travel company that has designed privately guided journeys across Sri Lanka since 2005. Trips combine hand-picked hotels, cultural and wildlife experiences and in-country coordination, with optional extras such as private transfers and yacht charters.",
+                    "industry": "Travel and tourism",
+                    "services": [
+                        "Social media post design",
+                        "Destination-led post concepts: hill country, wildlife, culture and the north",
+                        "Instagram content for the brand's social presence"
+                    ],
+                    "objectives": [
+                        "Show Sri Lanka's experiences, from mountain views to safaris and ancient sites, in a premium, visual way",
+                        "Turn interest into enquiries with clear calls to action such as requesting a guide or booking an early-morning pass",
+                        "Keep one consistent look across every destination story"
+                    ],
+                    "websiteUrl": "https://srilankaholidays.net/",
+                    "logoBackground": "Light"
+                },
+                {
+                    "logo": "/portfolio/logos/tmr-bikes.webp",
+                    "name": "TMR Bikes",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/tmr-bikes/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/tmr-bikes/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/tmr-bikes/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/tmr-bikes/04.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/tmr-bikes/05.webp"
+                        }
+                    ],
+                    "summary": "TMR Trading Lanka (Pvt) Ltd sells electric bikes and scooters under the TMR (True Man Racing) brand from Yakkala, in the Gampaha District. It also sells solar panels and accessories, and announces new dealers in towns such as Mahaoya and Kattankudy.",
+                    "industry": "Electric bikes and scooters",
+                    "services": [
+                        "Social media post design",
+                        "Model launch creatives for the COLA 5 and G18, with prices and a Book a Test Ride call to action",
+                        "Dealer-opening announcement posts for new showrooms",
+                        "Occasion posts, such as Children's Day and Elders' Day",
+                        "Facebook page content"
+                    ],
+                    "objectives": [
+                        "Launch new scooter models with clear prices and a test-ride call to action",
+                        "Tell customers where to see and buy the bikes as new dealers open",
+                        "Show the scooters in everyday family use"
+                    ],
+                    "websiteUrl": "https://www.facebook.com/share/19cvL43eZq/",
+                    "logoBackground": "Light"
+                },
+                {
+                    "logo": "/portfolio/logos/apex-industries.webp",
+                    "name": "Apex Industries",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/apex-industries/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/apex-industries/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/apex-industries/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/apex-industries/04.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/apex-industries/05.webp"
+                        }
+                    ],
+                    "summary": "Apex Industries is a Colombo-based manufacturer and importer of disposable products: eco-friendly cutlery, kraft food boxes, bamboo BBQ sticks and coffee cups, with custom logo printing available for business customers.",
+                    "industry": "Disposable food packaging",
+                    "services": [
+                        "Product-focused social media post design",
+                        "Eco-friendly and food-safe messaging built into each creative",
+                        "A consistent branded footer with contact details across the series"
+                    ],
+                    "objectives": [
+                        "Present the range (cutlery, boxes, BBQ sticks and cups) in a clean, appetising way",
+                        "Promote the eco-friendly, food-grade positioning",
+                        "Highlight custom logo printing to win business customers"
+                    ],
+                    "websiteUrl": "https://www.instagram.com/apexindustrieslk/",
+                    "logoBackground": "Light"
+                },
+                {
+                    "logo": "/portfolio/logos/serendib-news.webp",
+                    "name": "Serendib News",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/serendib-news/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/serendib-news/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/serendib-news/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/serendib-news/04.webp"
+                        }
+                    ],
+                    "summary": "Serendib News is an online news network serving Sri Lanka and the wider South Asian community. It publishes in English, Sinhala and Tamil, with editions for Sri Lanka, India, Australia and the UAE.",
+                    "industry": "News media",
+                    "services": [
+                        "Social media post design in Sinhala, Tamil and English",
+                        "Facebook page content",
+                        "Search engine optimisation (SEO) for serendibnews.net"
+                    ],
+                    "objectives": [
+                        "Present Serendib News as a trusted news source in all three languages",
+                        "Invite organisers to share their events and news with a global audience",
+                        "Show the network's reach: three languages across four countries"
+                    ],
+                    "websiteUrl": "https://serendibnews.net/",
+                    "logoBackground": "Light"
+                },
+                {
+                    "logo": "/portfolio/logos/ngm-motors.webp",
+                    "name": "NGM Motors",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/ngm-motors/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/ngm-motors/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/ngm-motors/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/ngm-motors/04.webp"
+                        }
+                    ],
+                    "summary": "NGM, short for New Genuine Motors, is a motorcycle workshop in Welisara, near Ragama in the Gampaha District. Its Facebook page describes it as a certified Bajaj service centre, and it repairs and services motorcycles and sells spare parts.",
+                    "industry": "Motorcycle service and spare parts",
+                    "services": [
+                        "Recruitment ad design for four roles: mechanics, bike washers, office assistants and spare-parts assistants",
+                        "A repeatable Sinhala \"We're hiring\" template with a WhatsApp number to apply",
+                        "Facebook page content"
+                    ],
+                    "objectives": [
+                        "Attract applicants for open roles across the workshop, the parts counter and the office",
+                        "Make applying simple, with the age requirement and a WhatsApp number on every ad",
+                        "Show each role in action so applicants know what the job involves"
+                    ],
+                    "websiteUrl": "https://www.facebook.com/newgenuinemotors/",
+                    "logoBackground": "Dark"
+                },
+                {
+                    "logo": "/portfolio/logos/rm-traders.webp",
+                    "name": "RM Traders",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/rm-traders/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/rm-traders/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/rm-traders/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/rm-traders/04.webp"
+                        }
+                    ],
+                    "summary": "RM Traders (Pvt) Ltd is an authorised Honda motorcycle dealer in the Gampaha and Puttalam districts, with branches in Kochchikade, Negombo, Wennappuwa and Marawila. Its posts also promote Honda spare parts and servicing.",
+                    "industry": "Honda motorcycle dealer",
+                    "services": [
+                        "Social media post design",
+                        "Offer-led creatives, such as down payments starting from Rs. 215,000",
+                        "Spare-parts and servicing campaign posts",
+                        "A branch contact footer covering all four locations"
+                    ],
+                    "objectives": [
+                        "Bring customers in with clear starting prices and a call-now action",
+                        "Position RM Traders as a one-stop shop for bikes and spare parts",
+                        "Make every branch easy to reach, with contact details on every post"
+                    ],
+                    "websiteUrl": "https://www.facebook.com/RMTraders.lk/",
+                    "logoBackground": "Dark"
+                },
+                {
+                    "logo": "/portfolio/logos/upaliee-transworks.webp",
+                    "name": "Upaliee Transworks",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/upaliee-transworks/01.webp"
+                        }
+                    ],
+                    "summary": "Upaliee Transworks Services is a prime-mover and container transport company based in Ja-Ela, Sri Lanka. It moves import and export cargo between the Port of Colombo and warehouses, factories and depots across the island, and keeps its fleet running from its own workshop.",
+                    "industry": "Freight and logistics",
+                    "services": [
+                        "Website design and development",
+                        "Social media post design",
+                        "Facebook page content"
+                    ],
+                    "objectives": [
+                        "Show the size of the fleet and its island-wide reach for large projects",
+                        "Keep the navy-and-yellow branding consistent across the website and social media"
+                    ],
+                    "websiteUrl": "https://upalieetransworks.com/",
+                    "logoBackground": "Light"
+                },
+                {
+                    "logo": "/logo1.png",
+                    "name": "eSupport",
+                    "posts": [
+                        {
+                            "image": "/portfolio/posts/esupport/01.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/02.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/03.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/04.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/05.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/06.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/07.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/08.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/09.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/10.webp"
+                        },
+                        {
+                            "image": "/portfolio/posts/esupport/11.webp"
+                        }
+                    ],
+                    "summary": "eSupport Technologies is a digital marketing and technology company headquartered in Colombo, Sri Lanka, with offices in Dubai and Australia. It builds websites and ERP systems and runs digital marketing, SEO and design for its clients.",
+                    "industry": "Digital marketing and technology",
+                    "services": [
+                        "In-house post design for our web development, ERP and digital marketing services",
+                        "Concept-led creatives that explain each service with a single visual idea",
+                        "Recruitment posts for open roles such as Business Analyst intern and Graphic Designer"
+                    ],
+                    "objectives": [
+                        "Explain our services in a simple, memorable way",
+                        "Generate enquiries with a consistent contact and website footer",
+                        "Attract new team members through hiring posts"
+                    ],
+                    "websiteUrl": "https://esupport.live/",
+                    "logoBackground": "Light"
+                }
+            ],
+            "postsTitle1": "Creative",
+            "postsTitle2": "Posts",
+            "postsEyebrow": "Post Designs",
+            "socialTitle1": "Social",
+            "socialTitle2": "Portfolio",
+            "socialClients": [
+                {
+                    "url": "https://www.facebook.com/share/19cvL43eZq/?mibextid=wwXIfr",
+                    "name": "TMR Bikes",
+                    "platform": "Facebook"
+                },
+                {
+                    "url": "https://www.instagram.com/fairplays.online?stkn=bHluc25oejJ4ZzNu",
+                    "name": "Fairplays Online",
+                    "platform": "Instagram"
+                },
+                {
+                    "url": "https://www.facebook.com/share/1BugvRdSv7/?mibextid=wwXIfr",
+                    "name": "Serendib News",
+                    "platform": "Facebook"
+                },
+                {
+                    "url": "https://www.facebook.com/share/1MX49CKGYZ/?mibextid=wwXIfr",
+                    "name": "Bingshu Negombo",
+                    "platform": "Facebook"
+                },
+                {
+                    "url": "https://www.facebook.com/illumea?mibextid=wwXIfr",
+                    "name": "Illumea Skin",
+                    "platform": "Facebook"
+                },
+                {
+                    "url": "https://www.facebook.com/share/195RQMiD55/?mibextid=wwXIfr",
+                    "name": "NGM Motors",
+                    "platform": "Facebook"
+                },
+                {
+                    "url": "https://www.facebook.com/share/14jZpHw3Qgp/?mibextid=wwXIfr",
+                    "name": "Locums Lanka",
+                    "platform": "Facebook"
+                },
+                {
+                    "url": "https://www.instagram.com/lanka_holidays?stkn=MW5mcXk4eXV4ODB3aw==",
+                    "name": "Lanka Holidays",
+                    "platform": "Instagram"
+                },
+                {
+                    "url": "https://www.facebook.com/share/1Hgn5EHM7k/?mibextid=wwXIfr",
+                    "name": "Green Bricks",
+                    "platform": "Facebook"
+                },
+                {
+                    "url": "https://www.facebook.com/share/18nndjTMb7/?mibextid=wwXIfr",
+                    "name": "Upaliee Transworks",
+                    "platform": "Facebook"
+                }
+            ],
+            "socialEyebrow": "Digital Marketing",
+            "companyCtaHref": "/#contact",
+            "dmPortfolioUrl": "https://e-support-portfolio.vercel.app",
+            "companyCtaLabel": "Get Started",
+            "companyCtaTitle": "Let's create your next campaign.",
+            "dmPortfolioImage": "/portfolio/dm-portfolio.webp",
+            "postsDescription": "Social media posts we design for our clients, grouped by company. Tap a company to browse its work.",
+            "socialDescription": "Brands whose social presence we run day to day: content, campaigns and community."
+        }
+    },
+    "media": [
+        {
+            "filename": "tmiwoi-uhdypg-photo-2026-09-29-15-39-21-1.webp",
+            "original_name": "PHOTO-2026-09-29-15-39-21_1.jpg",
+            "mime": "image/webp",
+            "size": 142408,
+            "width": 1280,
+            "height": 1600
+        },
+        {
+            "filename": "tmiwxs-sltfja-423-480x640-grayscale.webp",
+            "original_name": "423-480x640-grayscale.jpg",
+            "mime": "image/webp",
+            "size": 28328,
+            "width": 480,
+            "height": 640
+        },
+        {
+            "filename": "tmj8tu-vfv8gf-423-480x640-grayscale.webp",
+            "original_name": "423-480x640-grayscale.jpg",
+            "mime": "image/webp",
+            "size": 28328,
+            "width": 480,
+            "height": 640
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "esupport-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Workspace root for eSupport Website & Laravel API",
+  "scripts": {
+    "dev": "npm run dev --prefix esupport_web",
+    "web": "npm run dev --prefix esupport_web",
+    "api": "php esupport_api/artisan serve --port=8001",
+    "build": "npm run build --prefix esupport_web",
+    "lint": "npm run lint --prefix esupport_web"
+  }
+}

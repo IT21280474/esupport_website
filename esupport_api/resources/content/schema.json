@@ -1,0 +1,1916 @@
+{
+  "layoutKeys": [
+    "velocityTicker",
+    "agency",
+    "gallery",
+    "workIntro",
+    "portfolio",
+    "culture",
+    "servicesShowcase",
+    "services",
+    "packages",
+    "manifesto",
+    "editorial",
+    "about",
+    "stats",
+    "offices",
+    "reverseTicker",
+    "focusAreas",
+    "testimonials",
+    "contact"
+  ],
+  "sections": [
+    {
+      "key": "general",
+      "title": "Brand & General",
+      "group": "Global",
+      "description": "Brand colours, logos and the WhatsApp button used across the whole site.",
+      "fields": [
+        {
+          "kind": "stringList",
+          "key": "brandColors",
+          "label": "Brand colours",
+          "fixedLength": 5,
+          "help": "Five accent colours (hex), used in this order for accents, gradients and highlights."
+        },
+        {
+          "kind": "text",
+          "key": "whatsappNumber",
+          "label": "WhatsApp number",
+          "help": "Digits only with country code, e.g. 94707820810"
+        },
+        {
+          "kind": "image",
+          "key": "navLogo",
+          "label": "Navbar logo"
+        },
+        {
+          "kind": "image",
+          "key": "footerLogo",
+          "label": "Footer logo"
+        }
+      ]
+    },
+    {
+      "key": "seo",
+      "title": "SEO",
+      "group": "Global",
+      "description": "How the site appears in Google and when shared on social media.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "title",
+          "label": "Page title",
+          "help": "Aim for 50–60 characters."
+        },
+        {
+          "kind": "textarea",
+          "key": "description",
+          "label": "Meta description",
+          "rows": 3,
+          "help": "Aim for 140–160 characters."
+        },
+        {
+          "kind": "text",
+          "key": "keywords",
+          "label": "Keywords",
+          "help": "Comma separated."
+        },
+        {
+          "kind": "image",
+          "key": "ogImage",
+          "label": "Social share image",
+          "help": "1200 × 630 recommended."
+        }
+      ]
+    },
+    {
+      "key": "navbar",
+      "title": "Navigation",
+      "group": "Global",
+      "description": "Labels of the links in the top navigation bar, and which of them are shown.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "servicesLabel",
+          "label": "Services link"
+        },
+        {
+          "kind": "boolean",
+          "key": "showServices",
+          "label": "Show the Services link"
+        },
+        {
+          "kind": "text",
+          "key": "productsLabel",
+          "label": "Products link"
+        },
+        {
+          "kind": "url",
+          "key": "productsHref",
+          "label": "Products link address",
+          "placeholder": "/products",
+          "help": "Where the Products link goes: a page on this site (like /products) or a full https:// address."
+        },
+        {
+          "kind": "boolean",
+          "key": "showProducts",
+          "label": "Show the Products link"
+        },
+        {
+          "kind": "text",
+          "key": "portfolioLabel",
+          "label": "Portfolio link"
+        },
+        {
+          "kind": "boolean",
+          "key": "showPortfolio",
+          "label": "Show the Portfolio link"
+        },
+        {
+          "kind": "text",
+          "key": "galleryLabel",
+          "label": "Gallery link"
+        },
+        {
+          "kind": "boolean",
+          "key": "showGallery",
+          "label": "Show the Gallery link"
+        },
+        {
+          "kind": "text",
+          "key": "aboutLabel",
+          "label": "About link"
+        },
+        {
+          "kind": "boolean",
+          "key": "showAbout",
+          "label": "Show the About link"
+        },
+        {
+          "kind": "text",
+          "key": "contactLabel",
+          "label": "Contact button"
+        },
+        {
+          "kind": "boolean",
+          "key": "showContact",
+          "label": "Show the Contact button"
+        }
+      ]
+    },
+    {
+      "key": "layout",
+      "title": "Sections & Order",
+      "group": "Global",
+      "description": "Show, hide and reorder home page sections. The hero always stays first and the footer last.",
+      "fields": [
+        {
+          "kind": "sections",
+          "key": "sections",
+          "label": "Home page sections",
+          "labels": {
+            "velocityTicker": "Services ticker (top)",
+            "agency": "Intro — Your Growth Partner",
+            "gallery": "Parallax gallery — The Work",
+            "workIntro": "Work intro — Work That Moves",
+            "portfolio": "Portfolio — client websites & social",
+            "culture": "The Agency (big words)",
+            "servicesShowcase": "Services showcase (pinned)",
+            "services": "Our Services list",
+            "packages": "Service packages",
+            "manifesto": "Manifesto",
+            "editorial": "Editorial slides",
+            "about": "Our Story / About",
+            "stats": "Company stats",
+            "offices": "Where We Are — offices",
+            "reverseTicker": "Cities ticker (bottom)",
+            "focusAreas": "Focus areas",
+            "testimonials": "Testimonials",
+            "contact": "Contact / Get Started"
+          }
+        }
+      ]
+    },
+    {
+      "key": "hero",
+      "title": "Hero",
+      "group": "Home page",
+      "description": "The first screen: headline and the horizontal image strip.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Small label above headline"
+        },
+        {
+          "kind": "text",
+          "key": "line1",
+          "label": "Headline line 1 (solid)"
+        },
+        {
+          "kind": "text",
+          "key": "line2",
+          "label": "Headline line 2 (outlined)"
+        },
+        {
+          "kind": "textarea",
+          "key": "tagline",
+          "label": "Tagline",
+          "rows": 2
+        },
+        {
+          "kind": "text",
+          "key": "slogan",
+          "label": "Slogan"
+        },
+        {
+          "kind": "text",
+          "key": "metaRight",
+          "label": "Bottom-right text"
+        },
+        {
+          "kind": "image",
+          "key": "backgroundImage",
+          "label": "Background image",
+          "help": "Fills the first screen behind the headline and the image strip. Use a light, colourful image: the text stays dark. Leave empty for a plain white background."
+        },
+        {
+          "kind": "list",
+          "key": "tiles",
+          "label": "Image strip",
+          "itemTitle": "tag",
+          "help": "Tile sizes follow a fixed rhythm; add as many as you like.",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "tag",
+              "label": "Tag"
+            },
+            {
+              "kind": "image",
+              "key": "image",
+              "label": "Image"
+            }
+          ],
+          "newItem": {
+            "tag": "New",
+            "image": ""
+          }
+        }
+      ]
+    },
+    {
+      "key": "tickers",
+      "title": "Tickers",
+      "group": "Home page",
+      "description": "The scrolling text bands.",
+      "fields": [
+        {
+          "kind": "stringList",
+          "key": "top",
+          "label": "Top ticker items"
+        },
+        {
+          "kind": "stringList",
+          "key": "bottom",
+          "label": "Bottom ticker items"
+        }
+      ]
+    },
+    {
+      "key": "agency",
+      "title": "Intro — Growth Partner",
+      "group": "Home page",
+      "description": "The section right after the hero.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Small label"
+        },
+        {
+          "kind": "text",
+          "key": "title",
+          "label": "Title"
+        },
+        {
+          "kind": "text",
+          "key": "titleAccent",
+          "label": "Title accent (coloured)"
+        },
+        {
+          "kind": "textarea",
+          "key": "body",
+          "label": "Paragraph",
+          "rows": 4
+        },
+        {
+          "kind": "list",
+          "key": "stats",
+          "label": "Stats",
+          "itemTitle": "label",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "value",
+              "label": "Value",
+              "help": "e.g. 3,200+"
+            },
+            {
+              "kind": "text",
+              "key": "label",
+              "label": "Label"
+            }
+          ],
+          "newItem": {
+            "value": "0",
+            "label": "New stat"
+          }
+        },
+        {
+          "kind": "stringList",
+          "key": "tags",
+          "label": "Service tags"
+        }
+      ]
+    },
+    {
+      "key": "gallery",
+      "title": "Parallax Gallery",
+      "group": "Home page",
+      "description": "Dark gallery with the big “The Work” title. Images are spread across four columns.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Small label"
+        },
+        {
+          "kind": "text",
+          "key": "title",
+          "label": "Big title"
+        },
+        {
+          "kind": "stringList",
+          "key": "words",
+          "label": "Words under title"
+        },
+        {
+          "kind": "list",
+          "key": "images",
+          "label": "Images",
+          "itemTitle": "label",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "label",
+              "label": "Label"
+            },
+            {
+              "kind": "image",
+              "key": "image",
+              "label": "Image",
+              "help": "Portrait (2:3) works best."
+            }
+          ],
+          "newItem": {
+            "label": "New",
+            "image": ""
+          }
+        }
+      ]
+    },
+    {
+      "key": "workIntro",
+      "title": "Work Intro",
+      "group": "Home page",
+      "description": "“Work That Moves” heading above the portfolio.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Small label"
+        },
+        {
+          "kind": "text",
+          "key": "line1",
+          "label": "Line 1"
+        },
+        {
+          "kind": "text",
+          "key": "line2",
+          "label": "Line 2 (outlined)"
+        },
+        {
+          "kind": "textarea",
+          "key": "body",
+          "label": "Paragraph",
+          "rows": 3
+        },
+        {
+          "kind": "text",
+          "key": "tagline",
+          "label": "Moving tagline"
+        }
+      ]
+    },
+    {
+      "key": "portfolio",
+      "title": "Portfolio",
+      "group": "Home page",
+      "description": "Client websites with live previews, plus the digital marketing / social portfolio.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Small label"
+        },
+        {
+          "kind": "textarea",
+          "key": "description",
+          "label": "Description",
+          "rows": 2
+        },
+        {
+          "kind": "stringList",
+          "key": "categories",
+          "label": "Categories",
+          "help": "Filter tabs. Rename or add here, then tag sites below."
+        },
+        {
+          "kind": "list",
+          "key": "sites",
+          "label": "Client websites",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "url",
+              "key": "url",
+              "label": "Website URL"
+            },
+            {
+              "kind": "multiSelect",
+              "key": "categories",
+              "label": "Categories",
+              "optionsFrom": "categories"
+            },
+            {
+              "kind": "image",
+              "key": "image",
+              "label": "Preview screenshot",
+              "captureFrom": "url",
+              "help": "Upload one, or click Capture to screenshot the live site."
+            }
+          ],
+          "newItem": {
+            "name": "New client",
+            "url": "https://",
+            "categories": [],
+            "image": ""
+          }
+        },
+        {
+          "kind": "text",
+          "key": "socialEyebrow",
+          "label": "Social — small label"
+        },
+        {
+          "kind": "text",
+          "key": "socialTitle1",
+          "label": "Social — title line 1"
+        },
+        {
+          "kind": "text",
+          "key": "socialTitle2",
+          "label": "Social — title line 2 (outlined)"
+        },
+        {
+          "kind": "textarea",
+          "key": "socialDescription",
+          "label": "Social — description",
+          "rows": 2
+        },
+        {
+          "kind": "url",
+          "key": "dmPortfolioUrl",
+          "label": "Digital marketing portfolio URL"
+        },
+        {
+          "kind": "image",
+          "key": "dmPortfolioImage",
+          "label": "Digital marketing portfolio preview",
+          "captureFrom": "dmPortfolioUrl"
+        },
+        {
+          "kind": "text",
+          "key": "dmLabel",
+          "label": "Featured card label"
+        },
+        {
+          "kind": "text",
+          "key": "dmTitle",
+          "label": "Featured card title"
+        },
+        {
+          "kind": "list",
+          "key": "socialClients",
+          "label": "Social media clients",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "select",
+              "key": "platform",
+              "label": "Platform",
+              "options": [
+                "Facebook",
+                "Instagram",
+                "TikTok",
+                "LinkedIn",
+                "YouTube"
+              ]
+            },
+            {
+              "kind": "url",
+              "key": "url",
+              "label": "Profile URL"
+            }
+          ],
+          "newItem": {
+            "name": "New client",
+            "platform": "Facebook",
+            "url": "https://"
+          }
+        },
+        {
+          "kind": "text",
+          "key": "postsEyebrow",
+          "label": "Posts — small label"
+        },
+        {
+          "kind": "text",
+          "key": "postsTitle1",
+          "label": "Posts — title line 1"
+        },
+        {
+          "kind": "text",
+          "key": "postsTitle2",
+          "label": "Posts — title line 2 (outlined)"
+        },
+        {
+          "kind": "textarea",
+          "key": "postsDescription",
+          "label": "Posts — description",
+          "rows": 2
+        },
+        {
+          "kind": "text",
+          "key": "companyCtaTitle",
+          "label": "Company pages — closing banner title"
+        },
+        {
+          "kind": "text",
+          "key": "companyCtaLabel",
+          "label": "Company pages — closing banner button label"
+        },
+        {
+          "kind": "url",
+          "key": "companyCtaHref",
+          "label": "Company pages — closing banner button link",
+          "placeholder": "/#contact"
+        },
+        {
+          "kind": "list",
+          "key": "postClients",
+          "label": "Post design clients",
+          "help": "Each company gets its own page (opened from the Creative Posts cards) with its logo, intro, services, objectives and posts. The page address is made from the company name.",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Company name"
+            },
+            {
+              "kind": "image",
+              "key": "logo",
+              "label": "Logo",
+              "help": "A transparent PNG or WebP works best."
+            },
+            {
+              "kind": "select",
+              "key": "logoBackground",
+              "label": "Logo background",
+              "options": [
+                "Light",
+                "Dark"
+              ],
+              "help": "Pick Dark if the logo is white or light-coloured."
+            },
+            {
+              "kind": "text",
+              "key": "industry",
+              "label": "Industry"
+            },
+            {
+              "kind": "url",
+              "key": "websiteUrl",
+              "label": "Website",
+              "help": "Optional. Adds a Visit website button to the company page."
+            },
+            {
+              "kind": "textarea",
+              "key": "summary",
+              "label": "About the company (brief)",
+              "rows": 4
+            },
+            {
+              "kind": "stringList",
+              "key": "services",
+              "label": "Services we provided",
+              "placeholder": "e.g. Social media post design"
+            },
+            {
+              "kind": "stringList",
+              "key": "objectives",
+              "label": "Objectives",
+              "placeholder": "e.g. Reach more students in Sri Lanka"
+            },
+            {
+              "kind": "list",
+              "key": "posts",
+              "label": "Posts",
+              "itemTitle": "image",
+              "fields": [
+                {
+                  "kind": "image",
+                  "key": "image",
+                  "label": "Post image",
+                  "help": "Upload the post as it was published (portrait 4:5 works best)."
+                }
+              ],
+              "newItem": {
+                "image": ""
+              }
+            }
+          ],
+          "newItem": {
+            "name": "New company",
+            "logo": "",
+            "logoBackground": "Light",
+            "industry": "",
+            "websiteUrl": "",
+            "summary": "",
+            "services": [],
+            "objectives": [],
+            "posts": []
+          }
+        },
+        {
+          "kind": "text",
+          "key": "videosEyebrow",
+          "label": "Videos — small label"
+        },
+        {
+          "kind": "text",
+          "key": "videosTitle1",
+          "label": "Videos — title line 1"
+        },
+        {
+          "kind": "text",
+          "key": "videosTitle2",
+          "label": "Videos — title line 2 (outlined)"
+        },
+        {
+          "kind": "textarea",
+          "key": "videosDescription",
+          "label": "Videos — description",
+          "rows": 2
+        },
+        {
+          "kind": "list",
+          "key": "videoReels",
+          "label": "Commercial Video Reels",
+          "help": "Manage vertical 9:16 video reels. Provide a video file path (e.g. /portfolio/videos/my-video.mp4) or hosted video URL, duration, category, and poster image.",
+          "itemTitle": "title",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "title",
+              "label": "Video title"
+            },
+            {
+              "kind": "text",
+              "key": "client",
+              "label": "Client name"
+            },
+            {
+              "kind": "text",
+              "key": "clientSlug",
+              "label": "Client slug (optional)",
+              "help": "e.g. tmr-bikes, sansu-international-campus"
+            },
+            {
+              "kind": "select",
+              "key": "category",
+              "label": "Category",
+              "options": [
+                "Automotive",
+                "Commercials",
+                "Education",
+                "Media & News",
+                "Tech & Mobile",
+                "Motion Graphics"
+              ]
+            },
+            {
+              "kind": "text",
+              "key": "duration",
+              "label": "Duration",
+              "placeholder": "0:24"
+            },
+            {
+              "kind": "text",
+              "key": "videoSrc",
+              "label": "Video URL or Path",
+              "help": "e.g. /portfolio/videos/... or https://..."
+            },
+            {
+              "kind": "image",
+              "key": "posterSrc",
+              "label": "Poster / Thumbnail image"
+            },
+            {
+              "kind": "textarea",
+              "key": "description",
+              "label": "Description",
+              "rows": 2
+            },
+            {
+              "kind": "stringList",
+              "key": "tags",
+              "label": "Tags",
+              "placeholder": "e.g. EV Scooter, Test Ride"
+            }
+          ],
+          "newItem": {
+            "title": "New Video Reel",
+            "client": "Client Name",
+            "clientSlug": "",
+            "category": "Commercials",
+            "duration": "0:20",
+            "videoSrc": "/portfolio/videos/",
+            "posterSrc": "",
+            "description": "",
+            "tags": []
+          }
+        }
+      ]
+    },
+    {
+      "key": "culture",
+      "title": "The Agency",
+      "group": "Home page",
+      "description": "Two giant words that animate on scroll.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "word1",
+          "label": "Word 1"
+        },
+        {
+          "kind": "text",
+          "key": "word2",
+          "label": "Word 2 (gradient)"
+        },
+        {
+          "kind": "text",
+          "key": "caption",
+          "label": "Caption"
+        }
+      ]
+    },
+    {
+      "key": "services",
+      "title": "Services List",
+      "group": "Home page",
+      "description": "The “Our Services” list on the dark background.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Small label"
+        },
+        {
+          "kind": "text",
+          "key": "title",
+          "label": "Title"
+        },
+        {
+          "kind": "textarea",
+          "key": "subtitle",
+          "label": "Subtitle",
+          "rows": 2
+        },
+        {
+          "kind": "list",
+          "key": "items",
+          "label": "Services",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "textarea",
+              "key": "desc",
+              "label": "Description",
+              "rows": 3
+            }
+          ],
+          "newItem": {
+            "name": "New service",
+            "desc": ""
+          }
+        }
+      ]
+    },
+    {
+      "key": "packages",
+      "title": "Packages",
+      "group": "Home page",
+      "description": "Stacked service package cards.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "text",
+          "key": "title",
+          "label": "Title"
+        },
+        {
+          "kind": "text",
+          "key": "ctaLabel",
+          "label": "Button label"
+        },
+        {
+          "kind": "list",
+          "key": "items",
+          "label": "Packages",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "text",
+              "key": "category",
+              "label": "Category line"
+            },
+            {
+              "kind": "text",
+              "key": "price",
+              "label": "Price"
+            },
+            {
+              "kind": "stringList",
+              "key": "features",
+              "label": "Badges"
+            }
+          ],
+          "newItem": {
+            "name": "New package",
+            "category": "",
+            "price": "Custom",
+            "features": []
+          }
+        }
+      ]
+    },
+    {
+      "key": "manifesto",
+      "title": "Manifesto",
+      "group": "Home page",
+      "description": "Large word-by-word reveal paragraph.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "textarea",
+          "key": "text",
+          "label": "Manifesto text",
+          "rows": 5
+        },
+        {
+          "kind": "text",
+          "key": "caption",
+          "label": "Caption"
+        }
+      ]
+    },
+    {
+      "key": "editorial",
+      "title": "Editorial Slides",
+      "group": "Home page",
+      "description": "Full-screen pinned slides.",
+      "fields": [
+        {
+          "kind": "list",
+          "key": "slides",
+          "label": "Slides",
+          "itemTitle": "title",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "title",
+              "label": "Title"
+            },
+            {
+              "kind": "text",
+              "key": "subtitle",
+              "label": "Subtitle"
+            },
+            {
+              "kind": "textarea",
+              "key": "description",
+              "label": "Description",
+              "rows": 3
+            },
+            {
+              "kind": "image",
+              "key": "image",
+              "label": "Background image",
+              "help": "Landscape, 1600px+ wide."
+            }
+          ],
+          "newItem": {
+            "title": "New slide",
+            "subtitle": "",
+            "description": "",
+            "image": ""
+          }
+        }
+      ]
+    },
+    {
+      "key": "about",
+      "title": "Our Story / About",
+      "group": "Home page",
+      "description": "Company story, mission and vision.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "textarea",
+          "key": "title",
+          "label": "Title",
+          "rows": 2,
+          "help": "Use a new line to break the title."
+        },
+        {
+          "kind": "textarea",
+          "key": "body",
+          "label": "Paragraph",
+          "rows": 4
+        },
+        {
+          "kind": "textarea",
+          "key": "quote",
+          "label": "Quote",
+          "rows": 2
+        },
+        {
+          "kind": "text",
+          "key": "quoteAuthor",
+          "label": "Quote author"
+        },
+        {
+          "kind": "textarea",
+          "key": "mission",
+          "label": "Mission",
+          "rows": 3
+        },
+        {
+          "kind": "textarea",
+          "key": "vision",
+          "label": "Vision",
+          "rows": 3
+        },
+        {
+          "kind": "text",
+          "key": "buttonLabel",
+          "label": "Button label"
+        },
+        {
+          "kind": "url",
+          "key": "buttonLink",
+          "label": "Button link",
+          "help": "Leave empty to scroll to the manifesto."
+        },
+        {
+          "kind": "text",
+          "key": "visualLine1",
+          "label": "Right panel — line 1"
+        },
+        {
+          "kind": "text",
+          "key": "visualLine2",
+          "label": "Right panel — line 2"
+        },
+        {
+          "kind": "text",
+          "key": "visualCaption",
+          "label": "Right panel — caption"
+        },
+        {
+          "kind": "image",
+          "key": "image",
+          "label": "Right panel — Background Image",
+          "help": "Modern visual background image behind the Digital Growth panel."
+        }
+      ]
+    },
+    {
+      "key": "stats",
+      "title": "Company Stats",
+      "group": "Home page",
+      "description": "Animated counters.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "textarea",
+          "key": "intro",
+          "label": "Intro paragraph",
+          "rows": 3
+        },
+        {
+          "kind": "list",
+          "key": "items",
+          "label": "Stats",
+          "itemTitle": "label",
+          "fields": [
+            {
+              "kind": "number",
+              "key": "value",
+              "label": "Number",
+              "min": 0
+            },
+            {
+              "kind": "text",
+              "key": "suffix",
+              "label": "Suffix",
+              "help": "e.g. +"
+            },
+            {
+              "kind": "text",
+              "key": "label",
+              "label": "Label"
+            },
+            {
+              "kind": "text",
+              "key": "sub",
+              "label": "Sub-label"
+            },
+            {
+              "kind": "number",
+              "key": "fill",
+              "label": "Progress bar %",
+              "min": 0,
+              "max": 100
+            }
+          ],
+          "newItem": {
+            "value": 0,
+            "suffix": "+",
+            "label": "New stat",
+            "sub": "",
+            "fill": 50
+          }
+        }
+      ]
+    },
+    {
+      "key": "offices",
+      "title": "Offices",
+      "group": "Home page",
+      "description": "“Where We Are” office cards. The cities ticker is under Tickers.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "list",
+          "key": "items",
+          "label": "Offices",
+          "itemTitle": "city",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "city",
+              "label": "City"
+            },
+            {
+              "kind": "text",
+              "key": "country",
+              "label": "Country"
+            },
+            {
+              "kind": "text",
+              "key": "tag",
+              "label": "Tag"
+            },
+            {
+              "kind": "text",
+              "key": "address",
+              "label": "Address"
+            },
+            {
+              "kind": "text",
+              "key": "phone",
+              "label": "Phone"
+            },
+            {
+              "kind": "text",
+              "key": "coords",
+              "label": "Coordinates"
+            }
+          ],
+          "newItem": {
+            "city": "New city",
+            "country": "",
+            "tag": "",
+            "address": "",
+            "phone": "",
+            "coords": ""
+          }
+        }
+      ]
+    },
+    {
+      "key": "focusAreas",
+      "title": "Focus Areas",
+      "group": "Home page",
+      "description": "“Browse Our Expertise” cards.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "textarea",
+          "key": "title",
+          "label": "Title",
+          "rows": 2
+        },
+        {
+          "kind": "list",
+          "key": "items",
+          "label": "Cards",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "number",
+              "key": "count",
+              "label": "Project count",
+              "min": 0
+            },
+            {
+              "kind": "text",
+              "key": "description",
+              "label": "Description"
+            }
+          ],
+          "newItem": {
+            "name": "New area",
+            "count": 0,
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "key": "testimonials",
+      "title": "Testimonials",
+      "group": "Home page",
+      "description": "Client quotes.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "text",
+          "key": "title",
+          "label": "Title"
+        },
+        {
+          "kind": "text",
+          "key": "titleAccent",
+          "label": "Title accent"
+        },
+        {
+          "kind": "textarea",
+          "key": "intro",
+          "label": "Intro",
+          "rows": 2
+        },
+        {
+          "kind": "list",
+          "key": "items",
+          "label": "Testimonials",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "textarea",
+              "key": "quote",
+              "label": "Quote",
+              "rows": 4
+            },
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "text",
+              "key": "company",
+              "label": "Company"
+            },
+            {
+              "kind": "text",
+              "key": "service",
+              "label": "Service"
+            }
+          ],
+          "newItem": {
+            "quote": "",
+            "name": "",
+            "company": "",
+            "service": ""
+          }
+        }
+      ]
+    },
+    {
+      "key": "contact",
+      "title": "Contact / Get Started",
+      "group": "Home page",
+      "description": "The email sign-up block. Submissions arrive in the admin Inbox.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "label",
+          "label": "Section label"
+        },
+        {
+          "kind": "textarea",
+          "key": "title",
+          "label": "Title",
+          "rows": 2
+        },
+        {
+          "kind": "textarea",
+          "key": "body",
+          "label": "Paragraph",
+          "rows": 3
+        },
+        {
+          "kind": "text",
+          "key": "placeholder",
+          "label": "Email placeholder"
+        },
+        {
+          "kind": "text",
+          "key": "buttonLabel",
+          "label": "Button label"
+        },
+        {
+          "kind": "text",
+          "key": "note",
+          "label": "Small note"
+        },
+        {
+          "kind": "text",
+          "key": "bgWord",
+          "label": "Background word"
+        },
+        {
+          "kind": "text",
+          "key": "successMessage",
+          "label": "Success message"
+        }
+      ]
+    },
+    {
+      "key": "servicesShowcase",
+      "title": "Services Showcase (Agency Cards)",
+      "group": "Home page",
+      "description": "Pinned scroll showcase used on the home page and the /services page.",
+      "fields": [
+        {
+          "kind": "list",
+          "key": "items",
+          "label": "Services",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "text",
+              "key": "type",
+              "label": "Type label"
+            },
+            {
+              "kind": "textarea",
+              "key": "desc",
+              "label": "Description",
+              "rows": 2
+            },
+            {
+              "kind": "image",
+              "key": "image1",
+              "label": "Image 1 (portrait)"
+            },
+            {
+              "kind": "text",
+              "key": "label1",
+              "label": "Image 1 label"
+            },
+            {
+              "kind": "image",
+              "key": "image2",
+              "label": "Image 2 (landscape)"
+            },
+            {
+              "kind": "text",
+              "key": "label2",
+              "label": "Image 2 label"
+            }
+          ],
+          "newItem": {
+            "name": "New service",
+            "type": "",
+            "desc": "",
+            "image1": "",
+            "label1": "",
+            "image2": "",
+            "label2": ""
+          }
+        },
+        {
+          "kind": "text",
+          "key": "bottomLeft",
+          "label": "Bottom bar — left text"
+        },
+        {
+          "kind": "text",
+          "key": "bottomRight",
+          "label": "Bottom bar — right text"
+        }
+      ]
+    },
+    {
+      "key": "galleryPage",
+      "title": "Gallery Page",
+      "group": "Gallery page",
+      "description": "The /gallery page: a photo wall with category filters and a full-screen viewer. Add photos, tag them with categories and choose how each one is cropped.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Small label"
+        },
+        {
+          "kind": "text",
+          "key": "titleLine1",
+          "label": "Title — line 1"
+        },
+        {
+          "kind": "text",
+          "key": "titleLine2",
+          "label": "Title — line 2 (outlined)"
+        },
+        {
+          "kind": "textarea",
+          "key": "intro",
+          "label": "Intro text",
+          "rows": 3
+        },
+        {
+          "kind": "text",
+          "key": "allLabel",
+          "label": "“All” filter label"
+        },
+        {
+          "kind": "stringList",
+          "key": "categories",
+          "label": "Categories",
+          "help": "Filter tabs. Rename or add here, then tag photos below."
+        },
+        {
+          "kind": "list",
+          "key": "photos",
+          "label": "Photos",
+          "itemTitle": "title",
+          "fields": [
+            {
+              "kind": "image",
+              "key": "image",
+              "label": "Photo",
+              "help": "Upload one or pick from the media library."
+            },
+            {
+              "kind": "text",
+              "key": "title",
+              "label": "Title"
+            },
+            {
+              "kind": "text",
+              "key": "caption",
+              "label": "Caption",
+              "help": "Optional. Shown under the photo in the full-screen viewer."
+            },
+            {
+              "kind": "multiSelect",
+              "key": "categories",
+              "label": "Categories",
+              "optionsFrom": "categories"
+            },
+            {
+              "kind": "select",
+              "key": "shape",
+              "label": "Shape",
+              "options": [
+                "Portrait",
+                "Landscape",
+                "Square"
+              ],
+              "help": "How the photo is cropped in the grid. The full photo always shows in the viewer."
+            }
+          ],
+          "newItem": {
+            "image": "",
+            "title": "New photo",
+            "caption": "",
+            "categories": [],
+            "shape": "Portrait"
+          }
+        },
+        {
+          "kind": "text",
+          "key": "ctaTitle",
+          "label": "Bottom banner — text"
+        },
+        {
+          "kind": "text",
+          "key": "ctaLabel",
+          "label": "Bottom banner — button label"
+        },
+        {
+          "kind": "url",
+          "key": "ctaHref",
+          "label": "Bottom banner — button link"
+        },
+        {
+          "kind": "text",
+          "key": "seoTitle",
+          "label": "Page title (browser tab / Google)"
+        },
+        {
+          "kind": "textarea",
+          "key": "seoDescription",
+          "label": "Meta description",
+          "rows": 2,
+          "help": "Aim for 140–160 characters."
+        }
+      ]
+    },
+    {
+      "key": "careersPage",
+      "title": "Careers Page",
+      "group": "Careers page",
+      "description": "The /careers page: job listings, company culture, employee perks, and application settings.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "badgeText",
+          "label": "Small top badge",
+          "help": "e.g. WE'RE HIRING · 5 ROLES OPEN"
+        },
+        {
+          "kind": "text",
+          "key": "eyebrow",
+          "label": "Eyebrow"
+        },
+        {
+          "kind": "text",
+          "key": "titleLine1",
+          "label": "Title — line 1"
+        },
+        {
+          "kind": "text",
+          "key": "titleLine2",
+          "label": "Title — line 2 (accent / outlined)"
+        },
+        {
+          "kind": "textarea",
+          "key": "intro",
+          "label": "Introductory text",
+          "rows": 3
+        },
+        {
+          "kind": "list",
+          "key": "stats",
+          "label": "Hero Stats",
+          "itemTitle": "label",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "value",
+              "label": "Value"
+            },
+            {
+              "kind": "text",
+              "key": "label",
+              "label": "Label"
+            }
+          ],
+          "newItem": {
+            "value": "",
+            "label": ""
+          }
+        },
+        {
+          "kind": "text",
+          "key": "perksTitle",
+          "label": "Perks section title"
+        },
+        {
+          "kind": "textarea",
+          "key": "perksSubtitle",
+          "label": "Perks subtitle",
+          "rows": 2
+        },
+        {
+          "kind": "list",
+          "key": "perks",
+          "label": "Benefits & Perks",
+          "itemTitle": "title",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "tag",
+              "label": "Tag or Number",
+              "help": "e.g. 01, Growth, Global"
+            },
+            {
+              "kind": "text",
+              "key": "title",
+              "label": "Title"
+            },
+            {
+              "kind": "textarea",
+              "key": "description",
+              "label": "Description",
+              "rows": 2
+            }
+          ],
+          "newItem": {
+            "tag": "01",
+            "title": "New perk",
+            "description": ""
+          }
+        },
+        {
+          "kind": "text",
+          "key": "openingsTitle",
+          "label": "Job openings section title"
+        },
+        {
+          "kind": "textarea",
+          "key": "openingsSubtitle",
+          "label": "Job openings subtitle",
+          "rows": 2
+        },
+        {
+          "kind": "stringList",
+          "key": "departments",
+          "label": "Department Filter Tabs",
+          "help": "e.g. All, Engineering, Design, Marketing, Internships"
+        },
+        {
+          "kind": "list",
+          "key": "jobs",
+          "label": "Job Openings",
+          "itemTitle": "title",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "title",
+              "label": "Job Title"
+            },
+            {
+              "kind": "text",
+              "key": "department",
+              "label": "Department",
+              "help": "e.g. Engineering, Design, Marketing, Internships"
+            },
+            {
+              "kind": "text",
+              "key": "location",
+              "label": "Location",
+              "help": "e.g. Colombo · Hybrid, Dubai · Remote, Colombo · On-site"
+            },
+            {
+              "kind": "select",
+              "key": "type",
+              "label": "Employment Type",
+              "options": [
+                "Full-time",
+                "Part-time",
+                "Internship",
+                "Contract"
+              ]
+            },
+            {
+              "kind": "text",
+              "key": "experience",
+              "label": "Experience Level",
+              "help": "e.g. 2+ Years, Intern / Graduate, 3–5 Years"
+            },
+            {
+              "kind": "textarea",
+              "key": "description",
+              "label": "Short Overview",
+              "rows": 2
+            },
+            {
+              "kind": "textarea",
+              "key": "responsibilities",
+              "label": "Key Responsibilities",
+              "rows": 4
+            },
+            {
+              "kind": "textarea",
+              "key": "requirements",
+              "label": "Requirements & Qualifications",
+              "rows": 4
+            },
+            {
+              "kind": "text",
+              "key": "applyEmail",
+              "label": "Application Email",
+              "help": "Default: careers@esupport.live"
+            },
+            {
+              "kind": "boolean",
+              "key": "isActive",
+              "label": "Job Live Status (Publish / Unpublish)",
+              "help": "Publish to show on /careers, or Unpublish to hide."
+            }
+          ],
+          "newItem": {
+            "title": "New Job Position",
+            "department": "Engineering",
+            "location": "Colombo · Hybrid",
+            "type": "Full-time",
+            "experience": "2+ Years",
+            "description": "",
+            "responsibilities": "",
+            "requirements": "",
+            "applyEmail": "careers@esupport.live",
+            "isActive": true
+          }
+        },
+        {
+          "kind": "text",
+          "key": "ctaTitle",
+          "label": "Bottom CTA title"
+        },
+        {
+          "kind": "textarea",
+          "key": "ctaBody",
+          "label": "Bottom CTA body",
+          "rows": 2
+        },
+        {
+          "kind": "text",
+          "key": "ctaButtonLabel",
+          "label": "Bottom CTA button label"
+        },
+        {
+          "kind": "text",
+          "key": "ctaEmail",
+          "label": "Contact / CV Email",
+          "help": "e.g. careers@esupport.live"
+        },
+        {
+          "kind": "text",
+          "key": "seoTitle",
+          "label": "Page Title (SEO)"
+        },
+        {
+          "kind": "textarea",
+          "key": "seoDescription",
+          "label": "Meta Description (SEO)",
+          "rows": 2
+        }
+      ]
+    },
+    {
+      "key": "footer",
+      "title": "Footer",
+      "group": "Footer",
+      "description": "Branches, contact details, link columns and social links.",
+      "fields": [
+        {
+          "kind": "text",
+          "key": "branchesLabel",
+          "label": "Branches label"
+        },
+        {
+          "kind": "list",
+          "key": "branches",
+          "label": "Branches",
+          "itemTitle": "country",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "country",
+              "label": "Country"
+            },
+            {
+              "kind": "textarea",
+              "key": "address",
+              "label": "Address",
+              "rows": 2
+            }
+          ],
+          "newItem": {
+            "country": "",
+            "address": ""
+          }
+        },
+        {
+          "kind": "text",
+          "key": "contactsLabel",
+          "label": "Contacts label"
+        },
+        {
+          "kind": "list",
+          "key": "contacts",
+          "label": "Contacts",
+          "itemTitle": "label",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "label",
+              "label": "Label"
+            },
+            {
+              "kind": "text",
+              "key": "detail",
+              "label": "Text"
+            },
+            {
+              "kind": "url",
+              "key": "href",
+              "label": "Link",
+              "help": "tel:+94…, mailto:…, or https://…"
+            }
+          ],
+          "newItem": {
+            "label": "",
+            "detail": "",
+            "href": ""
+          }
+        },
+        {
+          "kind": "list",
+          "key": "navColumns",
+          "label": "Link columns",
+          "itemTitle": "title",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "title",
+              "label": "Column title"
+            },
+            {
+              "kind": "list",
+              "key": "links",
+              "label": "Links",
+              "itemTitle": "label",
+              "fields": [
+                {
+                  "kind": "text",
+                  "key": "label",
+                  "label": "Label"
+                },
+                {
+                  "kind": "url",
+                  "key": "href",
+                  "label": "Link"
+                }
+              ],
+              "newItem": {
+                "label": "",
+                "href": ""
+              }
+            }
+          ],
+          "newItem": {
+            "title": "New column",
+            "links": []
+          }
+        },
+        {
+          "kind": "text",
+          "key": "socialsLabel",
+          "label": "Social label"
+        },
+        {
+          "kind": "list",
+          "key": "socials",
+          "label": "Social links",
+          "itemTitle": "name",
+          "fields": [
+            {
+              "kind": "text",
+              "key": "name",
+              "label": "Name"
+            },
+            {
+              "kind": "url",
+              "key": "href",
+              "label": "URL"
+            }
+          ],
+          "newItem": {
+            "name": "",
+            "href": "https://"
+          }
+        },
+        {
+          "kind": "text",
+          "key": "copyright",
+          "label": "Copyright line"
+        },
+        {
+          "kind": "text",
+          "key": "location",
+          "label": "Location text"
+        },
+        {
+          "kind": "text",
+          "key": "bigWord",
+          "label": "Giant background word"
+        },
+        {
+          "kind": "text",
+          "key": "areas",
+          "label": "Areas line"
+        }
+      ]
+    }
+  ]
+}

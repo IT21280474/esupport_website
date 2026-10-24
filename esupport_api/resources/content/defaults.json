@@ -1,0 +1,2268 @@
+{
+  "general": {
+    "brandColors": [
+      "#FF6B35",
+      "#E63946",
+      "#F9C74F",
+      "#2DC653",
+      "#80ED99"
+    ],
+    "whatsappNumber": "94707820810",
+    "navLogo": "/logo-nav.png",
+    "footerLogo": "/logo1.png"
+  },
+  "seo": {
+    "title": "eSupport Technologies — Web Development, Digital Marketing & ERP",
+    "description": "eSupport Technologies — agile, versatile, future-ready web solutions. Custom websites, digital marketing, SEO, ERP systems and design from Colombo, Sri Lanka, with offices in Dubai and Australia.",
+    "keywords": "web development Sri Lanka, digital marketing Colombo, SEO, ERP systems, logo design, eSupport",
+    "ogImage": ""
+  },
+  "navbar": {
+    "servicesLabel": "Services",
+    "showServices": true,
+    "productsLabel": "Products",
+    "productsHref": "/products",
+    "showProducts": true,
+    "portfolioLabel": "Portfolio",
+    "showPortfolio": true,
+    "galleryLabel": "Gallery",
+    "showGallery": true,
+    "aboutLabel": "About",
+    "showAbout": true,
+    "contactLabel": "Contact",
+    "showContact": true
+  },
+  "layout": {
+    "sections": [
+      {
+        "key": "velocityTicker",
+        "visible": true
+      },
+      {
+        "key": "agency",
+        "visible": true
+      },
+      {
+        "key": "gallery",
+        "visible": true
+      },
+      {
+        "key": "workIntro",
+        "visible": true
+      },
+      {
+        "key": "portfolio",
+        "visible": true
+      },
+      {
+        "key": "culture",
+        "visible": true
+      },
+      {
+        "key": "servicesShowcase",
+        "visible": true
+      },
+      {
+        "key": "services",
+        "visible": true
+      },
+      {
+        "key": "packages",
+        "visible": true
+      },
+      {
+        "key": "manifesto",
+        "visible": true
+      },
+      {
+        "key": "editorial",
+        "visible": true
+      },
+      {
+        "key": "about",
+        "visible": true
+      },
+      {
+        "key": "stats",
+        "visible": true
+      },
+      {
+        "key": "offices",
+        "visible": true
+      },
+      {
+        "key": "reverseTicker",
+        "visible": true
+      },
+      {
+        "key": "focusAreas",
+        "visible": true
+      },
+      {
+        "key": "testimonials",
+        "visible": true
+      },
+      {
+        "key": "contact",
+        "visible": true
+      }
+    ]
+  },
+  "hero": {
+    "eyebrow": "Digital Marketing Agency",
+    "line1": "Digital",
+    "line2": "Growth",
+    "tagline": "eSupport — digital marketing agency, built to grow the brands of tomorrow.",
+    "slogan": "Strategy. Creative. Growth.",
+    "metaRight": "Colombo, LK · 2026",
+    "backgroundImage": "/hero-bg.webp",
+    "tiles": [
+      {
+        "tag": "Brand",
+        "image": "/uploads/tnasmo-czrmaa-hero-tile-01-brand.webp"
+      },
+      {
+        "tag": "Social",
+        "image": "/uploads/tnasmp-x20f1n-hero-tile-02-social.webp"
+      },
+      {
+        "tag": "Campaign",
+        "image": "/uploads/tnasmp-yhsh58-hero-tile-03-campaign.webp"
+      },
+      {
+        "tag": "Strategy",
+        "image": "/uploads/tnasmp-7tn96o-hero-tile-04-strategy.webp"
+      },
+      {
+        "tag": "Creative",
+        "image": "/uploads/tnasmp-yl8mkz-hero-tile-05-creative.webp"
+      },
+      {
+        "tag": "Content",
+        "image": "/uploads/tnasmp-t1ri0d-hero-tile-06-content.webp"
+      },
+      {
+        "tag": "Analytics",
+        "image": "/uploads/tnasmp-944zrw-hero-tile-07-analytics.webp"
+      },
+      {
+        "tag": "Growth",
+        "image": "/uploads/tnasmp-6nc52o-hero-tile-08-growth.webp"
+      },
+      {
+        "tag": "Digital",
+        "image": "/uploads/tnasmq-glgwiu-hero-tile-09-digital.webp"
+      },
+      {
+        "tag": "Identity",
+        "image": "/uploads/tnasmq-bmcfr6-hero-tile-10-identity.webp"
+      }
+    ]
+  },
+  "tickers": {
+    "top": [
+      "Custom Websites",
+      "Digital Marketing",
+      "ERP Systems",
+      "SEO · Design · Video · Content"
+    ],
+    "bottom": [
+      "Colombo",
+      "Dubai",
+      "Melbourne",
+      "Growth"
+    ]
+  },
+  "agency": {
+    "eyebrow": "Colombo, Sri Lanka — Est. 2023",
+    "title": "Your Growth",
+    "titleAccent": "Partner.",
+    "body": "Driving digital transformation with unparalleled expertise. We empower businesses with innovative web solutions tailored to accelerate growth and enhance online presence.",
+    "stats": [
+      {
+        "value": "2023",
+        "label": "Since"
+      },
+      {
+        "value": "6+",
+        "label": "Countries Connected"
+      },
+      {
+        "value": "3,200+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "1,800+",
+        "label": "Satisfied People"
+      }
+    ],
+    "tags": [
+      "Custom Websites",
+      "Digital Marketing",
+      "ERP Systems",
+      "SEO",
+      "Logo & Graphic Design",
+      "Video Content Creation",
+      "Content Writing",
+      "Technologies"
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Our Work",
+    "title": "The Work",
+    "words": [
+      "Data-Driven",
+      "Creative",
+      "Bold"
+    ],
+    "images": [
+      {
+        "label": "Brand",
+        "image": "https://picsum.photos/seed/es-g01/400/600?grayscale"
+      },
+      {
+        "label": "Campaign",
+        "image": "https://picsum.photos/seed/es-g02/400/600?grayscale"
+      },
+      {
+        "label": "Strategy",
+        "image": "https://picsum.photos/seed/es-g03/400/600?grayscale"
+      },
+      {
+        "label": "Digital",
+        "image": "https://picsum.photos/seed/es-g04/400/600?grayscale"
+      },
+      {
+        "label": "Social",
+        "image": "https://picsum.photos/seed/es-g05/400/600?grayscale"
+      },
+      {
+        "label": "Growth",
+        "image": "https://picsum.photos/seed/es-g06/400/600?grayscale"
+      },
+      {
+        "label": "Creative",
+        "image": "https://picsum.photos/seed/es-g07/400/600?grayscale"
+      },
+      {
+        "label": "Performance",
+        "image": "https://picsum.photos/seed/es-g08/400/600?grayscale"
+      },
+      {
+        "label": "Content",
+        "image": "https://picsum.photos/seed/es-g09/400/600?grayscale"
+      },
+      {
+        "label": "SEO",
+        "image": "https://picsum.photos/seed/es-g10/400/600?grayscale"
+      },
+      {
+        "label": "Identity",
+        "image": "https://picsum.photos/seed/es-g11/400/600?grayscale"
+      },
+      {
+        "label": "Analytics",
+        "image": "https://picsum.photos/seed/es-g12/400/600?grayscale"
+      },
+      {
+        "label": "Reach",
+        "image": "https://picsum.photos/seed/es-g13/400/600?grayscale"
+      },
+      {
+        "label": "Impact",
+        "image": "https://picsum.photos/seed/es-g14/400/600?grayscale"
+      }
+    ]
+  },
+  "workIntro": {
+    "eyebrow": "Our Portfolio",
+    "line1": "Work",
+    "line2": "That Moves",
+    "body": "Campaigns that cut through the noise. Brands that make people stop scrolling. Stories engineered to outlast the algorithm.",
+    "tagline": "Web · Marketing · ERP · SEO · Design · Video · Content"
+  },
+  "portfolio": {
+    "eyebrow": "Live Client Websites",
+    "description": "Websites we've designed and built across every industry, live right now. Tap any preview to visit the real thing.",
+    "categories": [
+      "Tourism",
+      "Travel",
+      "Hotels",
+      "Agriculture",
+      "Education",
+      "Corporate",
+      "Clothing",
+      "Beauty",
+      "Jewellery",
+      "E-Commerce",
+      "Construction",
+      "Health",
+      "Charity",
+      "Logistics",
+      "Spare Parts"
+    ],
+    "sites": [
+      {
+        "name": "Ceylora Holidays",
+        "url": "http://ceyloraholidays.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/ceyloraholidays.webp"
+      },
+      {
+        "name": "Ceylon Shen Tours",
+        "url": "https://ceylonshentours.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/ceylonshentours.webp"
+      },
+      {
+        "name": "Lanka At Travel",
+        "url": "http://lankaattravel.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/lankaattravel.webp"
+      },
+      {
+        "name": "Tropical Adventure SL",
+        "url": "https://tropicaladventuresl.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/tropicaladventuresl.webp"
+      },
+      {
+        "name": "Buddhanjali Travel",
+        "url": "https://buddhanjalitravel.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/buddhanjalitravel.webp"
+      },
+      {
+        "name": "Island Journeys",
+        "url": "https://islandjourneys.lk/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/islandjourneys.webp"
+      },
+      {
+        "name": "Triptastic Tours",
+        "url": "https://triptastictourssl.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/triptastictourssl.webp"
+      },
+      {
+        "name": "Lankora Journeys",
+        "url": "https://lankorajourneys.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/lankorajourneys.webp"
+      },
+      {
+        "name": "Justin Tours",
+        "url": "https://justintours.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ceylux Travel",
+        "url": "https://ceyluxtravel.com/",
+        "categories": [
+          "Tourism"
+        ],
+        "image": "/portfolio/ceyluxtravel.webp"
+      },
+      {
+        "name": "Colombo Flights",
+        "url": "https://colomboflights.com/",
+        "categories": [
+          "Travel"
+        ],
+        "image": "/portfolio/colomboflights.webp"
+      },
+      {
+        "name": "Sri Lanka Private Driver",
+        "url": "https://srilankaprivatedriver.com/",
+        "categories": [
+          "Travel"
+        ],
+        "image": "/portfolio/srilankaprivatedriver.webp"
+      },
+      {
+        "name": "Taxi King",
+        "url": "https://taxikingtk.com/",
+        "categories": [
+          "Travel"
+        ],
+        "image": "/portfolio/taxikingtk.webp"
+      },
+      {
+        "name": "TukTuk by T2",
+        "url": "https://tuktukbyt2.com/",
+        "categories": [
+          "Travel"
+        ],
+        "image": "/portfolio/tuktukbyt2.webp"
+      },
+      {
+        "name": "The Cea Moragalla",
+        "url": "https://theceamoragalla.com/",
+        "categories": [
+          "Hotels"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Sulanga Luxury",
+        "url": "https://sulangaluxury.com/",
+        "categories": [
+          "Hotels"
+        ],
+        "image": "/portfolio/sulangaluxury.webp"
+      },
+      {
+        "name": "Crown & Crown Kandy",
+        "url": "http://crownandcrownkandy.com/",
+        "categories": [
+          "Hotels"
+        ],
+        "image": "/portfolio/crownandcrownkandy.webp"
+      },
+      {
+        "name": "Kos Lanka",
+        "url": "https://koslanka.com/",
+        "categories": [
+          "Agriculture"
+        ],
+        "image": "/portfolio/koslanka.webp"
+      },
+      {
+        "name": "Super Feed",
+        "url": "https://superfeedlk.com/",
+        "categories": [
+          "Agriculture"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Kandy Hill Farm",
+        "url": "https://kandyhillfarm.lk/",
+        "categories": [
+          "Agriculture"
+        ],
+        "image": "/portfolio/kandyhillfarm.webp"
+      },
+      {
+        "name": "Maximus Education",
+        "url": "http://www.maximuseducation.lk/",
+        "categories": [
+          "Education"
+        ],
+        "image": "/portfolio/maximuseducation.webp"
+      },
+      {
+        "name": "EduGates Global",
+        "url": "https://edugatesglobal.lk/",
+        "categories": [
+          "Education"
+        ],
+        "image": "/portfolio/edugatesglobal.webp"
+      },
+      {
+        "name": "Iconic Education",
+        "url": "https://iconiceducation.lk/",
+        "categories": [
+          "Education"
+        ],
+        "image": "/portfolio/iconiceducation.webp"
+      },
+      {
+        "name": "TechDrive",
+        "url": "https://techdrive.lk/",
+        "categories": [
+          "Corporate"
+        ],
+        "image": "/portfolio/techdrive.webp"
+      },
+      {
+        "name": "BLIS",
+        "url": "http://blis.lk/",
+        "categories": [
+          "Corporate"
+        ],
+        "image": "/portfolio/blis.webp"
+      },
+      {
+        "name": "Shanu Manpower",
+        "url": "https://shanumanpower.lk/",
+        "categories": [
+          "Corporate"
+        ],
+        "image": "/portfolio/shanumanpower.webp"
+      },
+      {
+        "name": "Upaliee Transworks",
+        "url": "http://upalieetransworks.com/",
+        "categories": [
+          "Corporate"
+        ],
+        "image": "/portfolio/upalieetransworks.webp"
+      },
+      {
+        "name": "Lanka Gold Buyer",
+        "url": "https://lankagoldbuyer.lk/",
+        "categories": [
+          "Corporate",
+          "Jewellery"
+        ],
+        "image": ""
+      },
+      {
+        "name": "RJ Interior",
+        "url": "http://rjinterior.lk/",
+        "categories": [
+          "Corporate"
+        ],
+        "image": "/portfolio/rjinterior.webp"
+      },
+      {
+        "name": "KD Jeans",
+        "url": "http://kdjeans.com/",
+        "categories": [
+          "Corporate"
+        ],
+        "image": "/portfolio/kdjeans.webp"
+      },
+      {
+        "name": "Sandaru",
+        "url": "https://sandaru.lk/",
+        "categories": [
+          "Corporate"
+        ],
+        "image": "/portfolio/sandaru.webp"
+      },
+      {
+        "name": "RU Apparel",
+        "url": "https://ruapparel.com/",
+        "categories": [
+          "Corporate",
+          "Clothing"
+        ],
+        "image": "/portfolio/ruapparel.webp"
+      },
+      {
+        "name": "Montage Clothing",
+        "url": "https://montageclothing.lk/",
+        "categories": [
+          "Clothing"
+        ],
+        "image": "/portfolio/montageclothing.webp"
+      },
+      {
+        "name": "RealCap",
+        "url": "https://realcap.lk/",
+        "categories": [
+          "Clothing"
+        ],
+        "image": "/portfolio/realcap.webp"
+      },
+      {
+        "name": "Glovia Global",
+        "url": "https://gloviaglobal.com/",
+        "categories": [
+          "Clothing"
+        ],
+        "image": "/portfolio/gloviaglobal.webp"
+      },
+      {
+        "name": "Pattern",
+        "url": "https://pattern.lk/",
+        "categories": [
+          "Clothing"
+        ],
+        "image": "/portfolio/pattern.webp"
+      },
+      {
+        "name": "Jaktec",
+        "url": "https://jaktec.lk/",
+        "categories": [
+          "Clothing"
+        ],
+        "image": "/portfolio/jaktec.webp"
+      },
+      {
+        "name": "Dr. Melki",
+        "url": "https://drmelki.com/",
+        "categories": [
+          "Beauty"
+        ],
+        "image": "/portfolio/drmelki.webp"
+      },
+      {
+        "name": "Dr. Rashel Lanka",
+        "url": "https://drrashellanka.com/",
+        "categories": [
+          "Beauty"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Sviss",
+        "url": "https://sviss.lk/",
+        "categories": [
+          "Beauty"
+        ],
+        "image": "/portfolio/sviss.webp"
+      },
+      {
+        "name": "Bullion Lanka Jewellers",
+        "url": "https://bullionlankajewellers.lk/",
+        "categories": [
+          "Jewellery"
+        ],
+        "image": "/portfolio/bullionlankajewellers.webp"
+      },
+      {
+        "name": "Vilva Gold",
+        "url": "https://vilvagold.lk/",
+        "categories": [
+          "Jewellery"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Nishantha Hardware",
+        "url": "https://nishanthahardware.lk/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/nishanthahardware.webp"
+      },
+      {
+        "name": "Imeth Sports",
+        "url": "http://imethsports.com/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/imethsports.webp"
+      },
+      {
+        "name": "Limark Lanka",
+        "url": "http://limarklanka.com/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/limarklanka.webp"
+      },
+      {
+        "name": "Royal Freshness",
+        "url": "http://royalfreshness.lk/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": ""
+      },
+      {
+        "name": "KiwiVault NZ",
+        "url": "https://kiwivault-nz.com/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/kiwivault-nz.webp"
+      },
+      {
+        "name": "Surathala",
+        "url": "https://surathala.com/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/surathala.webp"
+      },
+      {
+        "name": "Gadget Brat",
+        "url": "https://gadget-brat.com/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/gadget-brat.webp"
+      },
+      {
+        "name": "RNR Mobile",
+        "url": "https://rnrmobile.com/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/rnrmobile.webp"
+      },
+      {
+        "name": "QuantumTek",
+        "url": "https://quantumtek.lk/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/quantumtek.webp"
+      },
+      {
+        "name": "MeatZone",
+        "url": "https://meatzone.lk/",
+        "categories": [
+          "E-Commerce"
+        ],
+        "image": "/portfolio/meatzone.webp"
+      },
+      {
+        "name": "Australian Concrete",
+        "url": "https://australianconcrete.com/",
+        "categories": [
+          "Construction"
+        ],
+        "image": "/portfolio/australianconcrete.webp"
+      },
+      {
+        "name": "Onara Homes",
+        "url": "https://onarahomes.com/",
+        "categories": [
+          "Construction"
+        ],
+        "image": "/portfolio/onarahomes.webp"
+      },
+      {
+        "name": "Buildway International",
+        "url": "https://buildwayinternational.com/",
+        "categories": [
+          "Construction"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Noah Lanka Glory",
+        "url": "https://noahlankaglory.com/",
+        "categories": [
+          "Construction"
+        ],
+        "image": "/portfolio/noahlankaglory.webp"
+      },
+      {
+        "name": "Gallage Construction",
+        "url": "https://gallageconstruction.lk/",
+        "categories": [
+          "Construction"
+        ],
+        "image": "/portfolio/gallageconstruction.webp"
+      },
+      {
+        "name": "Billing Navigator",
+        "url": "https://billingnavigator.com/",
+        "categories": [
+          "Health"
+        ],
+        "image": "/portfolio/billingnavigator.webp"
+      },
+      {
+        "name": "Helpline Academy",
+        "url": "https://helplineacademy.lk/",
+        "categories": [
+          "Health"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Verdant Care",
+        "url": "http://verdantcare.com.au/",
+        "categories": [
+          "Health"
+        ],
+        "image": "/portfolio/verdantcare.webp"
+      },
+      {
+        "name": "Medri",
+        "url": "https://medri.lk/",
+        "categories": [
+          "Health"
+        ],
+        "image": "/portfolio/medri.webp"
+      },
+      {
+        "name": "SafeLife Pharma",
+        "url": "https://safelifepharma.com/",
+        "categories": [
+          "Health"
+        ],
+        "image": "/portfolio/safelifepharma.webp"
+      },
+      {
+        "name": "LifeOn Help",
+        "url": "https://lifeonhelp.com/",
+        "categories": [
+          "Charity"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Suraksha Fund",
+        "url": "https://surakshafund.lk/",
+        "categories": [
+          "Charity"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ocean Asia Logistics",
+        "url": "https://oceanasialogistics.com/",
+        "categories": [
+          "Logistics"
+        ],
+        "image": "/portfolio/oceanasialogistics.webp"
+      },
+      {
+        "name": "Crestlog",
+        "url": "https://crestlog.com/",
+        "categories": [
+          "Logistics"
+        ],
+        "image": "/portfolio/crestlog.webp"
+      },
+      {
+        "name": "Seven Key Shipping",
+        "url": "http://sevenkeyshipping.com/",
+        "categories": [
+          "Logistics"
+        ],
+        "image": "/portfolio/sevenkeyshipping.webp"
+      },
+      {
+        "name": "Sago Japan",
+        "url": "https://sagojapan.com/",
+        "categories": [
+          "Spare Parts"
+        ],
+        "image": "/portfolio/sagojapan.webp"
+      },
+      {
+        "name": "GlobalTech Secure",
+        "url": "https://globaltechsecure.lk/",
+        "categories": [
+          "Spare Parts"
+        ],
+        "image": "/portfolio/globaltechsecure.webp"
+      }
+    ],
+    "socialEyebrow": "Digital Marketing",
+    "socialTitle1": "Social",
+    "socialTitle2": "Portfolio",
+    "socialDescription": "Brands whose social presence we run day to day: content, campaigns and community.",
+    "dmPortfolioUrl": "https://e-support-portfolio.vercel.app",
+    "dmPortfolioImage": "/portfolio/dm-portfolio.webp",
+    "dmLabel": "Full Case Studies",
+    "dmTitle": "Explore the Digital Marketing Portfolio",
+    "socialClients": [
+      {
+        "name": "TMR Bikes",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/19cvL43eZq/?mibextid=wwXIfr"
+      },
+      {
+        "name": "Fairplays Online",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/fairplays.online?stkn=bHluc25oejJ4ZzNu"
+      },
+      {
+        "name": "Serendib News",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/1BugvRdSv7/?mibextid=wwXIfr"
+      },
+      {
+        "name": "Bingshu Negombo",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/1MX49CKGYZ/?mibextid=wwXIfr"
+      },
+      {
+        "name": "Illumea Skin",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/illumea?mibextid=wwXIfr"
+      },
+      {
+        "name": "NGM Motors",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/195RQMiD55/?mibextid=wwXIfr"
+      },
+      {
+        "name": "Locums Lanka",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/14jZpHw3Qgp/?mibextid=wwXIfr"
+      },
+      {
+        "name": "Lanka Holidays",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/lanka_holidays?stkn=MW5mcXk4eXV4ODB3aw=="
+      },
+      {
+        "name": "Green Bricks",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/1Hgn5EHM7k/?mibextid=wwXIfr"
+      },
+      {
+        "name": "Upaliee Transworks",
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/share/18nndjTMb7/?mibextid=wwXIfr"
+      }
+    ],
+    "postsEyebrow": "Post Designs",
+    "postsTitle1": "Creative",
+    "postsTitle2": "Posts",
+    "postsDescription": "Social media posts we design for our clients, grouped by company. Tap a company to browse its work.",
+    "companyCtaTitle": "Let's create your next campaign.",
+    "companyCtaLabel": "Get Started",
+    "companyCtaHref": "/#contact",
+    "postClients": [
+      {
+        "name": "SANSU International Campus",
+        "logo": "/portfolio/logos/sansu-international-campus.webp",
+        "logoBackground": "Light",
+        "industry": "Higher education",
+        "websiteUrl": "",
+        "summary": "SANSU International Campus is a higher-education institute in Kandy, Sri Lanka, operating since 2015. It offers diploma programmes and certificate courses, along with pathways to study overseas and corporate training.",
+        "services": [
+          "Social media post design for the campus's certificate programmes",
+          "A creative concept for every course, told as a before-and-after story",
+          "Bilingual (Sinhala and English) post layouts with the campus branding"
+        ],
+        "objectives": [
+          "Promote the certificate programmes in psychology, counselling and education",
+          "Encourage enquiries and enrolments through a clear \"Enrol now\" and website call to action",
+          "Keep a consistent, recognisable look across a 12-post series"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/sansu-international-campus/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/04.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/05.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/06.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/07.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/08.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/09.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/10.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/11.webp"
+          },
+          {
+            "image": "/portfolio/posts/sansu-international-campus/12.webp"
+          }
+        ]
+      },
+      {
+        "name": "Fairplays Online",
+        "logo": "/portfolio/logos/fairplays-online.webp",
+        "logoBackground": "Light",
+        "industry": "Online sports betting and casino",
+        "websiteUrl": "",
+        "summary": "Fairplays is an online sports-betting and casino platform. Its own site offers a sportsbook, live casino and other games through a wallet-based account, with customer support, and is available in several languages including English and Hindi.",
+        "services": [
+          "Social media post design",
+          "Match-day and fixture announcement creatives for major cricket games",
+          "Themed sports artwork in English and Hindi (cricket, table tennis, badminton, virtual league)",
+          "Instagram content for the brand's social presence",
+          "Search engine optimisation (SEO) for the website"
+        ],
+        "objectives": [
+          "Keep the brand visible around major cricket fixtures",
+          "Reach both English- and Hindi-speaking audiences",
+          "Carry the brand's service and support messages in every post"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/fairplays-online/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/04.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/05.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/06.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/07.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/08.webp"
+          },
+          {
+            "image": "/portfolio/posts/fairplays-online/09.webp"
+          }
+        ]
+      },
+      {
+        "name": "Lanka Holidays",
+        "logo": "/portfolio/logos/lanka-holidays.webp",
+        "logoBackground": "Light",
+        "industry": "Travel and tourism",
+        "websiteUrl": "https://srilankaholidays.net/",
+        "summary": "Lanka Holidays is a Colombo-based travel company that has designed privately guided journeys across Sri Lanka since 2005. Trips combine hand-picked hotels, cultural and wildlife experiences and in-country coordination, with optional extras such as private transfers and yacht charters.",
+        "services": [
+          "Social media post design",
+          "Destination-led post concepts: hill country, wildlife, culture and the north",
+          "Instagram content for the brand's social presence"
+        ],
+        "objectives": [
+          "Show Sri Lanka's experiences, from mountain views to safaris and ancient sites, in a premium, visual way",
+          "Turn interest into enquiries with clear calls to action such as requesting a guide or booking an early-morning pass",
+          "Keep one consistent look across every destination story"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/lanka-holidays/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/lanka-holidays/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/lanka-holidays/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/lanka-holidays/04.webp"
+          },
+          {
+            "image": "/portfolio/posts/lanka-holidays/05.webp"
+          },
+          {
+            "image": "/portfolio/posts/lanka-holidays/06.webp"
+          },
+          {
+            "image": "/portfolio/posts/lanka-holidays/07.webp"
+          },
+          {
+            "image": "/portfolio/posts/lanka-holidays/08.webp"
+          }
+        ]
+      },
+      {
+        "name": "TMR Bikes",
+        "logo": "/portfolio/logos/tmr-bikes.webp",
+        "logoBackground": "Light",
+        "industry": "Electric bikes and scooters",
+        "websiteUrl": "https://www.facebook.com/share/19cvL43eZq/",
+        "summary": "TMR Trading Lanka (Pvt) Ltd sells electric bikes and scooters under the TMR (True Man Racing) brand from Yakkala, in the Gampaha District. It also sells solar panels and accessories, and announces new dealers in towns such as Mahaoya and Kattankudy.",
+        "services": [
+          "Social media post design",
+          "Model launch creatives for the COLA 5 and G18, with prices and a Book a Test Ride call to action",
+          "Dealer-opening announcement posts for new showrooms",
+          "Occasion posts, such as Children's Day and Elders' Day",
+          "Facebook page content"
+        ],
+        "objectives": [
+          "Launch new scooter models with clear prices and a test-ride call to action",
+          "Tell customers where to see and buy the bikes as new dealers open",
+          "Show the scooters in everyday family use"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/tmr-bikes/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/tmr-bikes/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/tmr-bikes/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/tmr-bikes/04.webp"
+          },
+          {
+            "image": "/portfolio/posts/tmr-bikes/05.webp"
+          }
+        ]
+      },
+      {
+        "name": "Apex Industries",
+        "logo": "/portfolio/logos/apex-industries.webp",
+        "logoBackground": "Light",
+        "industry": "Disposable food packaging",
+        "websiteUrl": "https://www.instagram.com/apexindustrieslk/",
+        "summary": "Apex Industries is a Colombo-based manufacturer and importer of disposable products: eco-friendly cutlery, kraft food boxes, bamboo BBQ sticks and coffee cups, with custom logo printing available for business customers.",
+        "services": [
+          "Product-focused social media post design",
+          "Eco-friendly and food-safe messaging built into each creative",
+          "A consistent branded footer with contact details across the series"
+        ],
+        "objectives": [
+          "Present the range (cutlery, boxes, BBQ sticks and cups) in a clean, appetising way",
+          "Promote the eco-friendly, food-grade positioning",
+          "Highlight custom logo printing to win business customers"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/apex-industries/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/apex-industries/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/apex-industries/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/apex-industries/04.webp"
+          },
+          {
+            "image": "/portfolio/posts/apex-industries/05.webp"
+          }
+        ]
+      },
+      {
+        "name": "Serendib News",
+        "logo": "/portfolio/logos/serendib-news.webp",
+        "logoBackground": "Light",
+        "industry": "News media",
+        "websiteUrl": "https://serendibnews.net/",
+        "summary": "Serendib News is an online news network serving Sri Lanka and the wider South Asian community. It publishes in English, Sinhala and Tamil, with editions for Sri Lanka, India, Australia and the UAE.",
+        "services": [
+          "Social media post design in Sinhala, Tamil and English",
+          "Facebook page content",
+          "Search engine optimisation (SEO) for serendibnews.net"
+        ],
+        "objectives": [
+          "Present Serendib News as a trusted news source in all three languages",
+          "Invite organisers to share their events and news with a global audience",
+          "Show the network's reach: three languages across four countries"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/serendib-news/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/serendib-news/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/serendib-news/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/serendib-news/04.webp"
+          }
+        ]
+      },
+      {
+        "name": "NGM Motors",
+        "logo": "/portfolio/logos/ngm-motors.webp",
+        "logoBackground": "Dark",
+        "industry": "Motorcycle service and spare parts",
+        "websiteUrl": "https://www.facebook.com/newgenuinemotors/",
+        "summary": "NGM, short for New Genuine Motors, is a motorcycle workshop in Welisara, near Ragama in the Gampaha District. Its Facebook page describes it as a certified Bajaj service centre, and it repairs and services motorcycles and sells spare parts.",
+        "services": [
+          "Recruitment ad design for four roles: mechanics, bike washers, office assistants and spare-parts assistants",
+          "A repeatable Sinhala \"We're hiring\" template with a WhatsApp number to apply",
+          "Facebook page content"
+        ],
+        "objectives": [
+          "Attract applicants for open roles across the workshop, the parts counter and the office",
+          "Make applying simple, with the age requirement and a WhatsApp number on every ad",
+          "Show each role in action so applicants know what the job involves"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/ngm-motors/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/ngm-motors/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/ngm-motors/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/ngm-motors/04.webp"
+          }
+        ]
+      },
+      {
+        "name": "RM Traders",
+        "logo": "/portfolio/logos/rm-traders.webp",
+        "logoBackground": "Dark",
+        "industry": "Honda motorcycle dealer",
+        "websiteUrl": "https://www.facebook.com/RMTraders.lk/",
+        "summary": "RM Traders (Pvt) Ltd is an authorised Honda motorcycle dealer in the Gampaha and Puttalam districts, with branches in Kochchikade, Negombo, Wennappuwa and Marawila. Its posts also promote Honda spare parts and servicing.",
+        "services": [
+          "Social media post design",
+          "Offer-led creatives, such as down payments starting from Rs. 215,000",
+          "Spare-parts and servicing campaign posts",
+          "A branch contact footer covering all four locations"
+        ],
+        "objectives": [
+          "Bring customers in with clear starting prices and a call-now action",
+          "Position RM Traders as a one-stop shop for bikes and spare parts",
+          "Make every branch easy to reach, with contact details on every post"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/rm-traders/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/rm-traders/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/rm-traders/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/rm-traders/04.webp"
+          }
+        ]
+      },
+      {
+        "name": "Upaliee Transworks",
+        "logo": "/portfolio/logos/upaliee-transworks.webp",
+        "logoBackground": "Light",
+        "industry": "Freight and logistics",
+        "websiteUrl": "https://upalieetransworks.com/",
+        "summary": "Upaliee Transworks Services is a prime-mover and container transport company based in Ja-Ela, Sri Lanka. It moves import and export cargo between the Port of Colombo and warehouses, factories and depots across the island, and keeps its fleet running from its own workshop.",
+        "services": [
+          "Website design and development",
+          "Social media post design",
+          "Facebook page content"
+        ],
+        "objectives": [
+          "Show the size of the fleet and its island-wide reach for large projects",
+          "Keep the navy-and-yellow branding consistent across the website and social media"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/upaliee-transworks/01.webp"
+          }
+        ]
+      },
+      {
+        "name": "eSupport",
+        "logo": "/logo1.png",
+        "logoBackground": "Light",
+        "industry": "Digital marketing and technology",
+        "websiteUrl": "https://esupport.live/",
+        "summary": "eSupport Technologies is a digital marketing and technology company headquartered in Colombo, Sri Lanka, with offices in Dubai and Australia. It builds websites and ERP systems and runs digital marketing, SEO and design for its clients.",
+        "services": [
+          "In-house post design for our web development, ERP and digital marketing services",
+          "Concept-led creatives that explain each service with a single visual idea",
+          "Recruitment posts for open roles such as Business Analyst intern and Graphic Designer"
+        ],
+        "objectives": [
+          "Explain our services in a simple, memorable way",
+          "Generate enquiries with a consistent contact and website footer",
+          "Attract new team members through hiring posts"
+        ],
+        "posts": [
+          {
+            "image": "/portfolio/posts/esupport/01.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/02.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/03.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/04.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/05.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/06.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/07.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/08.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/09.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/10.webp"
+          },
+          {
+            "image": "/portfolio/posts/esupport/11.webp"
+          }
+        ]
+      }
+    ],
+    "videosEyebrow": "VIDEO PRODUCTIONS & REELS",
+    "videosTitle1": "COMMERCIAL",
+    "videosTitle2": "VIDEO REELS",
+    "videosDescription": "High-impact social media reels, commercial ads, and motion graphics produced for visionary Sri Lankan and global brands.",
+    "videoReels": [
+      {
+        "title": "TMR XGW Electric Scooter",
+        "client": "TMR Bikes",
+        "clientSlug": "tmr-bikes",
+        "category": "Automotive",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/tmr-bikes-xgw-scooter.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/tmr-bikes-xgw-scooter.webp",
+        "description": "Studio launch showcase and test-ride promo for the high-efficiency TMR XGW model.",
+        "tags": [
+          "EV Scooter",
+          "Test Ride",
+          "Commercial"
+        ]
+      },
+      {
+        "title": "1000W Hub Motor Red Scooter",
+        "client": "TMR Bikes",
+        "clientSlug": "tmr-bikes",
+        "category": "Automotive",
+        "duration": "0:21",
+        "videoSrc": "/portfolio/videos/tmr-bikes-1000w-red-scooter.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/tmr-bikes-1000w-red-scooter.webp",
+        "description": "High-performance crimson EV scooter reel showcasing 1000W torque, LED headlights, and digital dash.",
+        "tags": [
+          "1000W Motor",
+          "Electric Ride",
+          "Test Drive"
+        ]
+      },
+      {
+        "title": "Zero Fuel Cost Daily Commute",
+        "client": "TMR Bikes",
+        "clientSlug": "tmr-bikes",
+        "category": "Automotive",
+        "duration": "0:23",
+        "videoSrc": "/portfolio/videos/tmr-bikes-zero-fuel-commute.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/tmr-bikes-zero-fuel-commute.webp",
+        "description": "Urban commuting reel highlighting massive fuel savings, eco-friendly travel, and dual riding comfort.",
+        "tags": [
+          "Fuel Free",
+          "City Commute",
+          "Lifestyle"
+        ]
+      },
+      {
+        "title": "Build Your Future Today",
+        "client": "SANSU International Campus",
+        "clientSlug": "sansu-international-campus",
+        "category": "Education",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/sansu-campus-future.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/sansu-campus-future.webp",
+        "description": "Dynamic campus life reel featuring higher education pathways, modern facilities, and student community.",
+        "tags": [
+          "Higher Education",
+          "Campus Reel",
+          "Kandy"
+        ]
+      },
+      {
+        "title": "100% Food Grade Packaging",
+        "client": "Apex Industries",
+        "clientSlug": "apex-industries",
+        "category": "Commercials",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/apex-industries-eco-packaging.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/apex-industries-eco-packaging.webp",
+        "description": "Sustainable café and restaurant disposable packaging commercial highlighting food-grade safety.",
+        "tags": [
+          "Eco Friendly",
+          "Food Packaging",
+          "Manufacturing"
+        ]
+      },
+      {
+        "title": "Certified Bajaj Service Center",
+        "client": "NGM Motors",
+        "clientSlug": "ngm-motors",
+        "category": "Automotive",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/ngm-motors-bajaj-service.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/ngm-motors-bajaj-service.webp",
+        "description": "Workshop showcase highlighting genuine Bajaj spare parts, precision tuning, and certified expertise.",
+        "tags": [
+          "Bajaj Center",
+          "Maintenance",
+          "Welisara"
+        ]
+      },
+      {
+        "title": "Modern Power, Superior Ride",
+        "client": "RM Traders",
+        "clientSlug": "rm-traders",
+        "category": "Automotive",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/rm-traders-honda-ride.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/rm-traders-honda-ride.webp",
+        "description": "Cinematic promo for Honda CB100 series with authorized sales centers across Sri Lanka.",
+        "tags": [
+          "Honda CB100",
+          "Motorbike",
+          "RM Traders"
+        ]
+      },
+      {
+        "title": "Severe Conditions & Civic Alert",
+        "client": "Serendib News",
+        "clientSlug": "serendib-news",
+        "category": "Media & News",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/serendib-news-civic-advisory.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/serendib-news-civic-advisory.webp",
+        "description": "Urgent weather and flood rescue alert video broadcast across Sinhala, Tamil, and English.",
+        "tags": [
+          "Civic Alert",
+          "Broadcast News",
+          "Multilingual"
+        ]
+      },
+      {
+        "title": "Jar Cake Open and Eat",
+        "client": "Taste of Weddings by Charvi",
+        "clientSlug": "taste-of-weddings",
+        "category": "Commercials",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/taste-of-weddings-jar-cake.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/taste-of-weddings-jar-cake.webp",
+        "description": "Rich, multi-layered chocolate dessert commercial — no plates, no cutting, just open & eat.",
+        "tags": [
+          "Dessert",
+          "F&B Commercial",
+          "Social Reel"
+        ]
+      },
+      {
+        "title": "Cooling Water Mattress",
+        "client": "Thara Healthy Service",
+        "clientSlug": "thara-healthy-service",
+        "category": "Commercials",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/thara-cooling-mattress.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/thara-cooling-mattress.webp",
+        "description": "Medical-grade cooling water mattress promo highlighting bedsore prevention and islandwide delivery.",
+        "tags": [
+          "Healthcare",
+          "Product Demo",
+          "Delivery"
+        ]
+      },
+      {
+        "title": "Herbal Skincare & Glow Treatment",
+        "client": "Illumea Skin",
+        "clientSlug": "illumea-skin",
+        "category": "Commercials",
+        "duration": "0:24",
+        "videoSrc": "/portfolio/videos/mumea-skin-care-reel.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/mumea-skin-care-reel.webp",
+        "description": "Luxury botanical facial therapy commercial showcasing organic ingredients and radiant skincare.",
+        "tags": [
+          "Skincare",
+          "Beauty Therapy",
+          "Organic"
+        ]
+      },
+      {
+        "title": "24/7 Customer Portal & Mobile App",
+        "client": "Ceylux Travel",
+        "clientSlug": "ceylux-travel",
+        "category": "Tech & Mobile",
+        "duration": "0:20",
+        "videoSrc": "/portfolio/videos/ceylux-travel-portal-app.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/ceylux-travel-portal-app.webp",
+        "description": "Interactive mobile app demo highlighting 24/7 dedicated travel experts, direct audio calls, and itinerary chat.",
+        "tags": [
+          "Mobile App",
+          "Travel Portal",
+          "UX Showcase"
+        ]
+      },
+      {
+        "title": "Motion Graphics & VFX Reel",
+        "client": "eSupport Technology",
+        "clientSlug": "esupport",
+        "category": "Motion Graphics",
+        "duration": "0:16",
+        "videoSrc": "/portfolio/videos/esupport-motion-reel.mp4",
+        "posterSrc": "/portfolio/videos/thumbnails/esupport-motion-reel.webp",
+        "description": "Behind-the-scenes motion design, keyframe sequencing, and visual effects production.",
+        "tags": [
+          "After Effects",
+          "Motion Graphics",
+          "Production"
+        ]
+      }
+    ]
+  },
+  "culture": {
+    "word1": "The",
+    "word2": "Agency",
+    "caption": "eSupport — Colombo, Sri Lanka · Est. 2023"
+  },
+  "servicesShowcase": {
+    "items": [
+      {
+        "name": "Digital Marketing",
+        "type": "Strategy & Growth",
+        "desc": "Performance campaigns. SEO. Paid media. Built to convert.",
+        "image1": "/uploads/tnapdg-n8m37m-marketing-campaigns.webp",
+        "label1": "Campaigns",
+        "image2": "/uploads/tnapdi-edoh9b-marketing-performance.webp",
+        "label2": "Performance"
+      },
+      {
+        "name": "Brand Identity",
+        "type": "Design & Voice",
+        "desc": "Logos. Style guides. Brand systems that scale across every touchpoint.",
+        "image1": "/uploads/tnapdi-wyvupm-brand-identity.webp",
+        "label1": "Identity",
+        "image2": "/uploads/tnapdj-ywwf7p-brand-stylesystem.webp",
+        "label2": "Style System"
+      },
+      {
+        "name": "Web Development",
+        "type": "Sites & Platforms",
+        "desc": "Modern frontends. Custom backends. Built for speed and scale.",
+        "image1": "/uploads/tnapdj-vvfwfd-web-frontend.webp",
+        "label1": "Frontend",
+        "image2": "/uploads/tnapdj-vkrski-web-platform.webp",
+        "label2": "Platform"
+      },
+      {
+        "name": "Mobile Apps",
+        "type": "iOS & Android",
+        "desc": "Native and cross-platform apps. Polished UX. Production-ready.",
+        "image1": "/uploads/tnapdj-minzhl-mobile-app.webp",
+        "label1": "Mobile",
+        "image2": "/uploads/tnapdj-2lukz7-mobile-crossplatform.webp",
+        "label2": "Cross-platform"
+      },
+      {
+        "name": "UI / UX Design",
+        "type": "Product Design",
+        "desc": "User-first design. Research-driven. Every pixel intentional.",
+        "image1": "/uploads/tnapdj-cdlbxf-uiux-product.webp",
+        "label1": "Product",
+        "image2": "/uploads/tnapdj-smomqs-uiux-research.webp",
+        "label2": "Research"
+      },
+      {
+        "name": "Cloud & DevOps",
+        "type": "Infrastructure",
+        "desc": "AWS. Azure. CI/CD pipelines. Reliable, monitored, secure.",
+        "image1": "/uploads/tnapdj-n4gavv-cloud-infra.webp",
+        "label1": "Infra",
+        "image2": "/uploads/tnapdj-ncvhr2-cloud-devops.webp",
+        "label2": "DevOps"
+      },
+      {
+        "name": "Digital Consulting",
+        "type": "Advisory",
+        "desc": "Strategy sessions. Roadmaps. We help you decide what to build next.",
+        "image1": "/uploads/tnapdk-tjrhlc-consulting-strategy.webp",
+        "label1": "Strategy",
+        "image2": "/uploads/tnapdk-q4iyco-consulting-roadmap.webp",
+        "label2": "Roadmap"
+      }
+    ],
+    "bottomLeft": "Scroll to explore services →",
+    "bottomRight": "Digital Solutions"
+  },
+  "services": {
+    "eyebrow": "What We Do",
+    "title": "Our Services",
+    "subtitle": "Full-service digital marketing for brands that want to grow — and stay grown.",
+    "items": [
+      {
+        "name": "Custom Website Development",
+        "desc": "Crafting customized websites with stunning design, seamless functionality, and optimal user experiences tailored to your unique needs."
+      },
+      {
+        "name": "Digital Marketing",
+        "desc": "Comprehensive digital marketing solutions — SEO, social media, and PPC — tailored for success to boost your digital presence together."
+      },
+      {
+        "name": "ERP Systems",
+        "desc": "Tailored ERP solutions to streamline operations, enhance efficiency, and boost productivity designed to meet the unique demands of your enterprise."
+      },
+      {
+        "name": "Search Engine Optimization",
+        "desc": "Driving targeted traffic to your website, elevating your rankings and ensuring a strong digital presence for sustainable business growth."
+      },
+      {
+        "name": "Logo & Graphic Design",
+        "desc": "Exceptional logo and graphic design solutions transforming concepts into visually compelling assets that leave a lasting impression."
+      },
+      {
+        "name": "Video Content Creation",
+        "desc": "Engaging video content tailored to your brand, delivering a powerful and compelling visual narrative for your audience."
+      },
+      {
+        "name": "Content Writing",
+        "desc": "Compelling content that resonates with your audience, delivering quality and impact to help your business stand out in the digital landscape."
+      }
+    ]
+  },
+  "packages": {
+    "label": "Service Packages",
+    "title": "Our Packages",
+    "ctaLabel": "Get Started →",
+    "items": [
+      {
+        "name": "Brand Starter",
+        "category": "01 / Strategy",
+        "price": "Custom",
+        "features": [
+          "Available",
+          "Tailored Plan",
+          "Free Consult"
+        ]
+      },
+      {
+        "name": "Growth Package",
+        "category": "02 / Performance",
+        "price": "Custom",
+        "features": [
+          "Available",
+          "Tailored Plan",
+          "Free Consult"
+        ]
+      },
+      {
+        "name": "Content Studio",
+        "category": "03 / Creative",
+        "price": "Custom",
+        "features": [
+          "Available",
+          "Tailored Plan",
+          "Free Consult"
+        ]
+      },
+      {
+        "name": "SEO Authority",
+        "category": "04 / Search",
+        "price": "Custom",
+        "features": [
+          "Available",
+          "Tailored Plan",
+          "Free Consult"
+        ]
+      },
+      {
+        "name": "Full-Service",
+        "category": "05 / All-In-One",
+        "price": "Custom",
+        "features": [
+          "Available",
+          "Tailored Plan",
+          "Free Consult"
+        ]
+      }
+    ]
+  },
+  "manifesto": {
+    "label": "Manifesto",
+    "text": "We don't just run campaigns. We engineer momentum. Born from the belief that every brand deserves to be seen, heard, and remembered. We find your story, shape it, and amplify it across every channel that matters — from Colombo to the world.",
+    "caption": "eSupport · Colombo, Sri Lanka · Est. 2023"
+  },
+  "editorial": {
+    "slides": [
+      {
+        "title": "The Brand",
+        "subtitle": "Brand Identity · eSupport",
+        "description": "Visual systems built to last. Identity that speaks before words do. Consistent. Unmistakable.",
+        "image": "https://picsum.photos/seed/es-e01/1200/800?grayscale"
+      },
+      {
+        "title": "The Campaign",
+        "subtitle": "Digital Marketing · eSupport",
+        "description": "Full-funnel strategy. From awareness to conversion. Every touchpoint engineered for impact.",
+        "image": "https://picsum.photos/seed/es-e02/1200/800?grayscale"
+      },
+      {
+        "title": "The Growth",
+        "subtitle": "Performance Marketing · eSupport",
+        "description": "Data-driven decisions. Channel mix. Audience targeting that scales without waste.",
+        "image": "https://picsum.photos/seed/es-e03/1200/800?grayscale"
+      },
+      {
+        "title": "The Impact",
+        "subtitle": "Results · eSupport",
+        "description": "ROI you can see. Metrics that matter. Growth that compounds quarter after quarter.",
+        "image": "https://picsum.photos/seed/es-e04/1200/800?grayscale"
+      }
+    ]
+  },
+  "about": {
+    "label": "Our Story",
+    "title": "Built to Grow\nYour Brand",
+    "body": "At eSupport Technologies, we're the architects of digital brilliance — based in Borella, Colombo 08, with offices in Dubai and Australia. Web development, system development and digital marketing, crafted into tailored solutions that transcend expectations.",
+    "quote": "Innovating solutions, achieving digital excellence.",
+    "quoteAuthor": "eSupport Technologies",
+    "mission": "Empower businesses with bespoke solutions, driving growth through cutting-edge technology and strategic partnerships.",
+    "vision": "Empowering global progress through innovative technology, fostering a world of digital advancement and connectivity.",
+    "buttonLabel": "Read Manifesto →",
+    "buttonLink": "",
+    "visualLine1": "Digital",
+    "visualLine2": "Growth",
+    "visualCaption": "Est. 2023 — Colombo, LK",
+    "image": "/uploads/tnar2a-qwanzf-about-digital-growth.webp"
+  },
+  "stats": {
+    "label": "The Power of Our Company",
+    "intro": "Driving digital transformation with unparalleled expertise. We empower businesses with innovative web solutions tailored to accelerate growth and enhance online presence.",
+    "items": [
+      {
+        "value": 6,
+        "suffix": "+",
+        "label": "Countries Connected",
+        "sub": "Global reach",
+        "fill": 60
+      },
+      {
+        "value": 3200,
+        "suffix": "+",
+        "label": "Projects Completed",
+        "sub": "Across all services",
+        "fill": 90
+      },
+      {
+        "value": 1800,
+        "suffix": "+",
+        "label": "Satisfied People",
+        "sub": "Happy clients worldwide",
+        "fill": 80
+      }
+    ]
+  },
+  "offices": {
+    "label": "Where We Are",
+    "items": [
+      {
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "tag": "HQ",
+        "address": "No 15, Kuruppu Road, Colombo 08",
+        "phone": "(+94) 707 820 810",
+        "coords": "6.9271°N · 79.8612°E"
+      },
+      {
+        "city": "Dubai",
+        "country": "Dubai",
+        "tag": "Middle East",
+        "address": "Dubai Silicon Oasis, DDP, Building A1, Dubai",
+        "phone": "(+971) 4 123 4567",
+        "coords": "25.2048°N · 55.2708°E"
+      },
+      {
+        "city": "Melbourne",
+        "country": "Australia",
+        "tag": "APAC",
+        "address": "63 Margot St, Chadstone VIC 3148",
+        "phone": "(+61) 451 954 340",
+        "coords": "37.8862°S · 145.0830°E"
+      }
+    ]
+  },
+  "focusAreas": {
+    "label": "Our Focus Areas",
+    "title": "Browse Our\nExpertise",
+    "items": [
+      {
+        "name": "Brand",
+        "count": 24,
+        "description": "Identity & Strategy"
+      },
+      {
+        "name": "Campaigns",
+        "count": 18,
+        "description": "Paid & Organic Growth"
+      },
+      {
+        "name": "Content",
+        "count": 32,
+        "description": "Creative & Production"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Client Voices",
+    "title": "What Clients",
+    "titleAccent": "Say.",
+    "intro": "1,800+ satisfied clients across 6+ countries. A few of them, in their own words.",
+    "items": [
+      {
+        "quote": "eSupport Technologies exceeded our expectations. Their team's expertise and dedication delivered exceptional results. Highly recommended!",
+        "name": "Prasanna",
+        "company": "Monoliza Agency",
+        "service": "Web Development"
+      },
+      {
+        "quote": "Working with eSupport was a game-changer. Their digital marketing strategies significantly boosted our online presence. Great team, great results!",
+        "name": "Navodi",
+        "company": "Essency",
+        "service": "Digital Marketing"
+      },
+      {
+        "quote": "Impressed with eSupport's system development. They crafted a custom solution that streamlined our processes, enhancing efficiency across the board.",
+        "name": "Akila",
+        "company": "TriSteps",
+        "service": "System Development"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Get Started",
+    "title": "Grow Your\nBrand Today",
+    "body": "Let's build something remarkable together. Free strategy consultation — no commitment, just clarity.",
+    "placeholder": "your@email.com",
+    "buttonLabel": "Let's Talk →",
+    "note": "No spam · Free consultation · Cancel anytime",
+    "bgWord": "START",
+    "successMessage": "Thanks! Our team will contact you shortly."
+  },
+  "galleryPage": {
+    "eyebrow": "Gallery",
+    "titleLine1": "Our",
+    "titleLine2": "Gallery",
+    "intro": "A look inside eSupport — the projects we ship, the team behind them and the moments in between.",
+    "allLabel": "All",
+    "categories": [
+      "Projects",
+      "Team",
+      "Events",
+      "Office"
+    ],
+    "photos": [
+      {
+        "image": "/gallery/placeholder-01.webp",
+        "title": "Brand identity",
+        "caption": "",
+        "categories": [
+          "Projects"
+        ],
+        "shape": "Portrait"
+      },
+      {
+        "image": "/gallery/placeholder-02.webp",
+        "title": "Launch week",
+        "caption": "",
+        "categories": [
+          "Projects",
+          "Events"
+        ],
+        "shape": "Landscape"
+      },
+      {
+        "image": "/gallery/placeholder-03.webp",
+        "title": "Studio day",
+        "caption": "",
+        "categories": [
+          "Team"
+        ],
+        "shape": "Square"
+      },
+      {
+        "image": "/gallery/placeholder-04.webp",
+        "title": "Campaign shoot",
+        "caption": "",
+        "categories": [
+          "Projects"
+        ],
+        "shape": "Portrait"
+      },
+      {
+        "image": "/gallery/placeholder-05.webp",
+        "title": "Team lunch",
+        "caption": "",
+        "categories": [
+          "Team",
+          "Events"
+        ],
+        "shape": "Square"
+      },
+      {
+        "image": "/gallery/placeholder-06.webp",
+        "title": "Colombo office",
+        "caption": "",
+        "categories": [
+          "Office"
+        ],
+        "shape": "Landscape"
+      },
+      {
+        "image": "/gallery/placeholder-07.webp",
+        "title": "Workshop",
+        "caption": "",
+        "categories": [
+          "Events"
+        ],
+        "shape": "Portrait"
+      },
+      {
+        "image": "/gallery/placeholder-08.webp",
+        "title": "Design review",
+        "caption": "",
+        "categories": [
+          "Team",
+          "Projects"
+        ],
+        "shape": "Portrait"
+      },
+      {
+        "image": "/gallery/placeholder-09.webp",
+        "title": "Client meeting",
+        "caption": "",
+        "categories": [
+          "Office"
+        ],
+        "shape": "Landscape"
+      },
+      {
+        "image": "/gallery/placeholder-10.webp",
+        "title": "Product shots",
+        "caption": "",
+        "categories": [
+          "Projects"
+        ],
+        "shape": "Square"
+      },
+      {
+        "image": "/gallery/placeholder-11.webp",
+        "title": "Annual get-together",
+        "caption": "",
+        "categories": [
+          "Events",
+          "Team"
+        ],
+        "shape": "Portrait"
+      },
+      {
+        "image": "/gallery/placeholder-12.webp",
+        "title": "Desk setup",
+        "caption": "",
+        "categories": [
+          "Office"
+        ],
+        "shape": "Square"
+      }
+    ],
+    "ctaTitle": "Have a project in mind?",
+    "ctaLabel": "Start a conversation",
+    "ctaHref": "/#contact",
+    "seoTitle": "Gallery — eSupport Technologies",
+    "seoDescription": "Browse photos from eSupport Technologies: our projects, team, events and office life in Colombo, Sri Lanka."
+  },
+  "careersPage": {
+    "badgeText": "WE'RE HIRING · 5 ROLES OPEN",
+    "eyebrow": "Careers & Culture",
+    "titleLine1": "Build The Future",
+    "titleLine2": "With eSupport.",
+    "intro": "We are a tight-knit collective of engineers, designers, digital marketers, and strategists creating transformative digital products across Sri Lanka, Dubai, and Australia. Join us to solve challenging problems and do the best work of your career.",
+    "stats": [
+      {
+        "value": "3 Global Hubs",
+        "label": "Colombo · Dubai · Melbourne"
+      },
+      {
+        "value": "3,200+",
+        "label": "Projects Successfully Delivered"
+      },
+      {
+        "value": "98%",
+        "label": "Client & Team Retention"
+      },
+      {
+        "value": "Hybrid & Agile",
+        "label": "Modern Autonomous Culture"
+      }
+    ],
+    "perksTitle": "Why Build Your Career With Us?",
+    "perksSubtitle": "We believe extraordinary work happens when talented minds are given trust, high-impact challenges, and an empowering culture.",
+    "perks": [
+      {
+        "tag": "01",
+        "title": "International Projects & Scale",
+        "description": "Collaborate on cutting-edge platforms for fast-growing global brands across Sri Lanka, UAE, and Australia."
+      },
+      {
+        "tag": "02",
+        "title": "Modern Tech Stack & Autonomy",
+        "description": "Work with Next.js, React, Laravel, TypeScript, TailwindCSS, and AI-augmented dev workflows without legacy friction."
+      },
+      {
+        "tag": "03",
+        "title": "Hybrid & Flexible Schedules",
+        "description": "We evaluate outcomes, quality, and momentum — not clock-ins. Enjoy flexible hours and hybrid office arrangements."
+      },
+      {
+        "tag": "04",
+        "title": "Competitive Compensation & Growth",
+        "description": "Attractive salary packages, annual increments, performance bonuses, and clear leadership career paths."
+      },
+      {
+        "tag": "05",
+        "title": "Continuous Learning & Mentorship",
+        "description": "Access to tech conferences, courses, pair programming, and direct mentorship from industry veterans."
+      },
+      {
+        "tag": "06",
+        "title": "Vibrant Team & Social Life",
+        "description": "Regular team outings, Friday hack & games sessions, hackathons, and a supportive, drama-free team atmosphere."
+      }
+    ],
+    "openingsTitle": "Current Opportunities",
+    "openingsSubtitle": "Find your next role. Filter by department or browse our open positions below.",
+    "departments": [
+      "All",
+      "Engineering",
+      "Design",
+      "Digital Marketing",
+      "Internships"
+    ],
+    "jobs": [
+      {
+        "title": "Senior Full-Stack Engineer (Next.js & Laravel)",
+        "department": "Engineering",
+        "location": "Colombo · Hybrid",
+        "type": "Full-time",
+        "experience": "3+ Years",
+        "description": "Lead the development of custom client web applications, complex ERP systems, and high-performance digital platforms.",
+        "responsibilities": "• Architect and build responsive Next.js / React frontends and scalable Laravel APIs.\n• Optimize application performance, SEO, accessibility, and database queries.\n• Review peer pull requests and mentor junior engineers.\n• Collaborate directly with designers and project stakeholders.",
+        "requirements": "• Strong proficiency in TypeScript, React / Next.js, PHP, and modern Laravel.\n• Experience with relational databases (MySQL, PostgreSQL) and RESTful API design.\n• Familiarity with modern CSS frameworks (TailwindCSS) and version control (Git).\n• Excellent problem-solving and English communication skills.",
+        "applyEmail": "careers@esupport.live",
+        "isActive": true
+      },
+      {
+        "title": "UI/UX & Product Designer",
+        "department": "Design",
+        "location": "Colombo · Hybrid",
+        "type": "Full-time",
+        "experience": "2+ Years",
+        "description": "Design sleek, intuitive user interfaces and unforgettable digital journeys for international brands and bespoke enterprise platforms.",
+        "responsibilities": "• Craft wireframes, user flows, and high-fidelity interactive prototypes in Figma.\n• Build and maintain modular design systems and component libraries.\n• Collaborate with front-end engineers to ensure flawless visual execution.\n• Conduct usability testing and iterate based on client feedback and analytics.",
+        "requirements": "• Strong portfolio showcasing web and mobile interface designs.\n• Mastery of Figma, modern typography, grid systems, and micro-animations.\n• Understanding of front-end capabilities and design constraints.\n• Keen eye for luxury, minimalism, and modern interactive aesthetics.",
+        "applyEmail": "careers@esupport.live",
+        "isActive": true
+      },
+      {
+        "title": "Digital Marketing & Performance Strategist",
+        "department": "Digital Marketing",
+        "location": "Colombo · Hybrid",
+        "type": "Full-time",
+        "experience": "2+ Years",
+        "description": "Drive exponential growth for our clients through data-driven performance marketing, SEO, and paid multi-channel ad campaigns.",
+        "responsibilities": "• Plan and execute Meta Ads, Google Search & Display, and LinkedIn campaigns.\n• Formulate organic SEO strategies and technical audits for client websites.\n• Analyze campaign KPIs, CAC, and ROAS, delivering actionable monthly client reports.\n• Brainstorm viral social media concepts and creative campaign angles.",
+        "requirements": "• Proven track record managing profitable paid media campaigns.\n• Proficiency with Google Analytics 4, Meta Ads Manager, and SEO tools (Ahrefs / SEMrush).\n• Strong copy-ideation skills and data analytical mindset.\n• Experience with client communication and presenting insights.",
+        "applyEmail": "careers@esupport.live",
+        "isActive": true
+      },
+      {
+        "title": "Business Analyst / Project Intern",
+        "department": "Internships",
+        "location": "Colombo · On-site",
+        "type": "Internship",
+        "experience": "Intern / Graduate",
+        "description": "Join our product delivery team to bridge client requirements with engineering execution. Ideal for ambitious graduates seeking rapid industry immersion.",
+        "responsibilities": "• Gather and document software requirements, user stories, and feature specs.\n• Coordinate between client stakeholders and development teams.\n• Assist with quality assurance (QA) and acceptance testing before client launches.\n• Participate in agile sprints, daily standups, and project roadmap reviews.",
+        "requirements": "• Degree or ongoing studies in IT, Software Engineering, Business Information Systems, or related field.\n• High analytical thinking, detail orientation, and fast learning speed.\n• Good verbal and written communication in English.\n• Enthusiasm for modern tech products and startup culture.",
+        "applyEmail": "careers@esupport.live",
+        "isActive": true
+      },
+      {
+        "title": "Creative Graphic Designer & Motion Artist",
+        "department": "Design",
+        "location": "Colombo · Hybrid",
+        "type": "Full-time",
+        "experience": "1–3 Years",
+        "description": "Produce captivating social media post designs, brand identity assets, short-form motion reels, and client campaign visuals.",
+        "responsibilities": "• Design high-converting social media posts and banners for brand clients.\n• Create short-form video reels, animations, and kinetic typography.\n• Ensure visual consistency with brand guidelines across all deliverables.\n• Turn marketing concepts into thumb-stopping visual artwork.",
+        "requirements": "• Proficiency in Photoshop, Illustrator, and Premiere Pro / After Effects.\n• Portfolio of commercial post designs, brand visuals, or motion reels.\n• Creativity, speed, and receptiveness to feedback.\n• Strong passion for visual storytelling and digital trends.",
+        "applyEmail": "careers@esupport.live",
+        "isActive": true
+      }
+    ],
+    "ctaTitle": "Don't see your specific role listed?",
+    "ctaBody": "We are constantly expanding our footprint and welcoming exceptional talents. Send us your CV, GitHub, or portfolio and let's explore how we can collaborate.",
+    "ctaButtonLabel": "Apply Spontaneously →",
+    "ctaEmail": "careers@esupport.live",
+    "seoTitle": "Careers — eSupport Technologies",
+    "seoDescription": "Explore career opportunities at eSupport Technologies. Join our engineering, design, and digital marketing teams in Colombo, Dubai, and Australia."
+  },
+  "footer": {
+    "branchesLabel": "Our Branches",
+    "branches": [
+      {
+        "country": "Sri Lanka",
+        "address": "No 15, Kuruppu Road,\nColombo 08."
+      },
+      {
+        "country": "Dubai",
+        "address": "Dubai Silicon Oasis, DDP, Building A1,\nDubai, UAE."
+      },
+      {
+        "country": "Australia",
+        "address": "63 Margot St,\nChadstone VIC 3148."
+      }
+    ],
+    "contactsLabel": "Contact Us",
+    "contacts": [
+      {
+        "label": "Sri Lanka",
+        "detail": "Mobile: (+94) 707 820 810",
+        "href": "tel:+94707820810"
+      },
+      {
+        "label": "Dubai",
+        "detail": "Mobile: (+971) 50 123 4567",
+        "href": "tel:+971501234567"
+      },
+      {
+        "label": "Australia",
+        "detail": "Phone: (+61) 451 954 340",
+        "href": "tel:+61451954340"
+      },
+      {
+        "label": "Corporate",
+        "detail": "Phone: 011 216 9269",
+        "href": "tel:0112169269"
+      },
+      {
+        "label": "Email",
+        "detail": "info@esupport.live",
+        "href": "mailto:info@esupport.live"
+      }
+    ],
+    "navColumns": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "label": "Custom Websites",
+            "href": "/services"
+          },
+          {
+            "label": "Digital Marketing",
+            "href": "/services"
+          },
+          {
+            "label": "ERP Systems",
+            "href": "/services"
+          },
+          {
+            "label": "SEO",
+            "href": "/services"
+          },
+          {
+            "label": "Logo & Graphic Design",
+            "href": "/services"
+          },
+          {
+            "label": "Video Content",
+            "href": "/services"
+          },
+          {
+            "label": "Content Writing",
+            "href": "/services"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "label": "About Us",
+            "href": "/#about"
+          },
+          {
+            "label": "Portfolio",
+            "href": "/#portfolio"
+          },
+          {
+            "label": "Careers",
+            "href": "/careers"
+          },
+          {
+            "label": "Digital Marketing Portfolio ↗︎",
+            "href": "https://e-support-portfolio.vercel.app"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          {
+            "label": "Contact Us",
+            "href": "/#contact"
+          },
+          {
+            "label": "WhatsApp",
+            "href": "https://wa.me/94707820810"
+          },
+          {
+            "label": "Email Us",
+            "href": "mailto:info@esupport.live"
+          }
+        ]
+      }
+    ],
+    "socialsLabel": "Follow Us",
+    "socials": [
+      {
+        "name": "Facebook",
+        "href": "https://www.facebook.com/esupporttechnolgies"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://www.instagram.com/esupportlive/"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/company/esupport-technologies-pvt-ltd/"
+      },
+      {
+        "name": "Behance",
+        "href": "https://www.behance.net/esupportlive"
+      },
+      {
+        "name": "X / Twitter",
+        "href": "https://twitter.com/eSupportlive00"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://www.youtube.com/channel/UC7NiNE9QFIus9RxR7vdpJtw"
+      }
+    ],
+    "copyright": "© 2026 eSupport Technologies (Pvt) Ltd — All Rights Reserved",
+    "location": "Colombo, Sri Lanka",
+    "bigWord": "eSupport",
+    "areas": "Sri Lanka · Dubai · Australia"
+  }
+}
